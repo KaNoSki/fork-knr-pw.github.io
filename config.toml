@@ -1,3 +1,9 @@
-baseURL = "http://example.org/"
+baseURL = "https://knr.edu.pl/"
 languageCode = "pl-pl"
-title = "My New Hugo Site"
+title = "Koło Naukowe Robotyków PW"
+
+
+[project]
+title = "Project"
+singular = "project"
+plural = "projects"
