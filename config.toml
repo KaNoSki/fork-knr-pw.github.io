@@ -1,3 +1,9 @@
 baseURL = "http://example.org/"
 languageCode = "pl-pl"
 title = "My New Hugo Site"
+
+
+[project]
+title = "Project"
+singular = "project"
+plural = "projects"
