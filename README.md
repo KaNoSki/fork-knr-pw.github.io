@@ -8,7 +8,7 @@ Strona jest budowana za pomocą statycznego generatora [Hugo](https://gohugo.io/
 
 Do wygodnej edycji strony lokalnie należy [zainstalować hugo](https://gohugo.io/installation/) (Np na linuxie `sudo apt install hugo`)
 
-Komenda `hugo server` usuchomi dynamiczny serwer z zawartością.
+Komenda `hugo server` uruchomi dynamiczny serwer z zawartością.
 
 Do samodzielnego zbudowania samych plików wystarczy komenda `hugo`, która zbuduje witrynę w folderze `public`.
 
