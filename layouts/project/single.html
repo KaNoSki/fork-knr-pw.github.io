@@ -8,7 +8,14 @@
     <img src="{{ .Params.main_project_image }}" alt="hal" />
   </div>
 </section>
+<section class="about">
+  <div class="about__triangle">
+    <svg viewBox="0 0 1200 120" preserveAspectRatio="none">
+      <path d="M1200 0L0 0 892.25 114.72 1200 0z"></path>
+    </svg>
+  </div>
+    <div class="container">{{ .Content }}</div>
+  <div class="square square-white"></div>
+</section>
 
-{{ .Content }}
-
-{{ partial "footer.html" . }}
+{{ partial "footer.html" . }}</div>
