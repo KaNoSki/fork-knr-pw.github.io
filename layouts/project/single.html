@@ -1,5 +1,14 @@
 {{ partial "header.html" . }}
 
+<section class="project-start">
+  <div class="project-start__text">
+    <div class="project-start__title">{{.Title}}</div>
+  </div>
+  <div class="project-start__item">
+    <img src="{{ .Params.main_project_image }}" alt="hal" />
+  </div>
+</section>
+
 {{ .Content }}
 
 {{ partial "footer.html" . }}
