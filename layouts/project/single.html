@@ -14,7 +14,26 @@
       <path d="M1200 0L0 0 892.25 114.72 1200 0z"></path>
     </svg>
   </div>
-    <div class="container">{{ .Content }}</div>
+  <div class="container">
+    <div class="about__wrapper">
+      <div class="about__block">
+        <img class="about__image" src="{{ .Params.article_image}}" alt="hal" />
+      </div>
+      <div class="about__block">
+        <div class="about__descr-title">Kilka słów więcej</div>
+        <div class="about__descr">{{.Params.short_description | safeHTML }}
+        </div>
+      </div>
+    </div>
+
+    <div class="about__wrapper">
+      <div class="about__block">
+        <div class="about__descr">
+          {{.Content}}
+        </div>
+      </div>
+    </div>
+  </div>
   <div class="square square-white"></div>
 </section>
 
