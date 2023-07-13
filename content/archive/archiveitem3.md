@@ -1,7 +1,8 @@
 ---
-title: archiveitem4
-url: "/archiveitem4"
+title: archiveitem3
+url: "/archiveitem3"
 main_project_image: "/images/hal_small.jpg"
 article_image: "/images/lazik/4.jpg"
 short_description:
+  "Łazik marsjański „HAL-062”"
 ---
