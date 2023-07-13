@@ -20,6 +20,15 @@
         <img class="project__image" src="{{ .Params.article_image}}" alt="hal" />
       </div>
       <div class="project__block">
+        <div class="project__dates">
+          {{ with .Params.start_date }}
+            <h4>{{ . }}</h4>
+          {{ end }}
+          {{ with .Params.end_date }}
+            <h4>{{ . }}</h4>
+          {{ end }}
+
+        </div>
         <div class="project__descr-title">Kilka słów więcej</div>
         <div class="project__descr">{{.Params.short_description | safeHTML }}
         </div>

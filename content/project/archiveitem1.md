@@ -8,5 +8,7 @@ short_description:
 start_date:
   "start_date"
 end_date:
-  "end date"
+
+inny_param:
+  "coś"
 ---
