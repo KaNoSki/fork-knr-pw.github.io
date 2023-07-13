@@ -12,7 +12,6 @@
   </div>
   <div class="square square-white"></div>
   <div class="archive-gallery">
-    {{.Content}}
     {{range .Pages}}
       <div class="archive-item">
         <a href="{{ .RelPermalink }}">
@@ -21,7 +20,6 @@
           <p>{{.Params.short_description | safeHTML }}</p>
         </a>
       </div>
-
     {{end}}
   </div>
 </section>
