@@ -11,12 +11,12 @@
         </div>
   </div>
   <div class="square square-white"></div>
-  <div class="archive-gallery">
+  <div class="archive-gallery" ></div>>
     {{range .Pages}}
       <div class="archive-item">
         <a href="{{ .RelPermalink }}">
           <img src="{{ .Params.article_image}}" alt="{{.Title}}">
-          <h3>{{.Title}}</h3>
+          <h2>{{.Title}}</h2>
           <p>{{.Params.short_description | safeHTML }}</p>
         </a>
       </div>

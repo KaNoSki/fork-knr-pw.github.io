@@ -258,15 +258,13 @@
     width: 400px;
     min-width:300px;
     height: 360px;
-    margin: 30px;
-    outline: 2px solid #212529;
+    margin: 50px;
     color: #212529;
-    border-radius: 10px;
-    padding: 10px;
-    padding-bottom: 5px;
+    padding: 5px;
     box-sizing: border-box;
     text-align: center;
     overflow: auto;
+    resize:vertical;
 }
 
 .archive-item img {
@@ -278,12 +276,12 @@
     object-fit: cover;
 }
 
-.archive-item h3 {
-    padding-top: 20px;
+.archive-item h2 {
+    margin-top: 15px;
 }
 
 .archive-item p {
-    margin-top: 5px;
+    margin-top: 10px;
 }
 
 .archive-item a{
@@ -716,6 +714,9 @@
     }
     .project__block:first-child{
         margin-right:0
+    }
+    .project__dates{
+
     }
     .project__image{
         margin-right:0
