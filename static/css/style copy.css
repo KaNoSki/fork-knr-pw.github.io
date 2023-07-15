@@ -255,7 +255,6 @@
 }
 
 .archive-item {
-    display: flex;
     width: 400px;
     height: 400px;
     margin: 50px;

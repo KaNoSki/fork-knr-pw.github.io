@@ -11,13 +11,14 @@
         </div>
   </div>
   <div class="square square-white"></div>
-  <div class="archive-gallery" ></div>>
+  <div class="archive-gallery">
+
     {{range .Pages}}
       <div class="archive-item">
         <a href="{{ .RelPermalink }}">
           <img src="{{ .Params.article_image}}" alt="{{.Title}}">
           <h2>{{.Title}}</h2>
-          <p>{{.Params.short_description | safeHTML }}</p>
+          <p>{{.Params.short_description | safeHTML | truncate 100 }}</p>
         </a>
       </div>
     {{end}}
