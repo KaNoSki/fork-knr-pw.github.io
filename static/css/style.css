@@ -274,6 +274,9 @@
     object-fit: cover;
 }
 
+.divider{
+    line-height: 0px;
+}
 .archive-item h2 {
     margin-top: 15px;
 }
@@ -1033,6 +1036,12 @@
 .projects__square-white{
     border:2px solid #505050;
     background-color:transparent
+}
+.projects_recruitment{
+    background-color:#ededed;
+    padding-bottom: 0;
+    padding-top: 0;
+    position:relative
 }
 @media (max-width:1200px){
     .projects__item{
