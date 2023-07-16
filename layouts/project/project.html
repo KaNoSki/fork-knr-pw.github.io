@@ -7,18 +7,16 @@
       <path d="M1200 0L0 0 892.25 114.72 1200 0z"></path>
     </svg>
   </div>
-        <div class="archive-title">Archiwum projektów</div>
-        </div>
+        <div class="archive-title" data-aos="fade-up">Archiwum projektów</div>
   </div>
   <div class="square square-white"></div>
   <div class="archive-gallery">
-
     {{range .Pages}}
-      <div class="archive-item">
+      <div class="archive-item" data-aos="fade-up">
         <a href="{{ .RelPermalink }}">
           <img src="{{ .Params.article_image}}" alt="{{.Title}}">
-          <h2>{{.Title}}</h2>
-          <p>{{.Params.short_description | safeHTML | truncate 100 }}</p>
+          <h2 data-aos="fade-up">{{.Title}}</h2>
+          <p data-aos="fade-up">{{.Params.short_description | safeHTML | truncate 100 }}</p>
         </a>
       </div>
     {{end}}
