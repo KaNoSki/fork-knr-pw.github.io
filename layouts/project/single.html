@@ -20,6 +20,9 @@
         <img class="project__image" src="{{ .Params.article_image}}" alt="hal" />
       </div>
       <div class="project__block">
+        <div class="project__dates">
+            <p>{{ with .Params.start_date }}{{ . }}{{ end }}  {{ if .Params.end_date }} - {{ .Params.end_date }} {{ else }} - obecnie {{ end }}</p>
+        </div>
         <div class="project__descr-title">Kilka słów więcej</div>
         <div class="project__descr">{{.Params.short_description | safeHTML }}
         </div>
