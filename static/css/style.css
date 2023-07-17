@@ -622,10 +622,6 @@
     .project__block:first-child{
         margin-right:0
     }
-    .project__descr{
-        text-align:left;
-        font-size:20px
-    }
     .project__image{
         margin-right:0
     }
