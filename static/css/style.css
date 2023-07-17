@@ -591,6 +591,10 @@
     line-height:68px;
     margin-bottom:30px
 }
+.project__dates{
+    margin-bottom: 20px;
+    text-align: right;
+}
 .project__title{
     font-family:RadicalWut;
     font-size:60px;
@@ -647,6 +651,10 @@
     .project__title{
         font-size:50px;
         line-height:58px
+    }
+    .project__dates{
+        text-align: center;
+        margin-bottom: 10px;
     }
 }
 @media (max-width:1024px){
@@ -715,9 +723,6 @@
     }
     .project__block:first-child{
         margin-right:0
-    }
-    .project__dates{
-
     }
     .project__image{
         margin-right:0

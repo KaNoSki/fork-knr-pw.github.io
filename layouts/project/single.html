@@ -21,13 +21,7 @@
       </div>
       <div class="project__block">
         <div class="project__dates">
-          {{ with .Params.start_date }}
-            <h4>{{ . }}</h4>
-          {{ end }}
-          {{ with .Params.end_date }}
-            <h4>{{ . }}</h4>
-          {{ end }}
-
+            <p>{{ with .Params.start_date }}{{ . }}{{ end }} - obecnie</p>
         </div>
         <div class="project__descr-title">Kilka słów więcej</div>
         <div class="project__descr">{{.Params.short_description | safeHTML }}
