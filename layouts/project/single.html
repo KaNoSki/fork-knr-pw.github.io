@@ -21,7 +21,17 @@
       </div>
       <div class="project__block">
         <div class="project__dates">
-            <p>{{ with .Params.start_date }}{{ . }}{{ end }}  {{ if .Params.end_date }} - {{ .Params.end_date }} {{ else }} - obecnie {{ end }}</p>
+            <p>
+              {{ if .Params.start_date }}
+                {{ .Params.start_date }}
+                {{ if .Params.end_date }} 
+                  - {{ .Params.end_date }} 
+                {{ else }} 
+                  - obecnie 
+                {{ end }}
+              {{ end }}
+
+            </p>
         </div>
         <div class="project__descr-title">Kilka słów więcej</div>
         <div class="project__descr">{{.Params.short_description | safeHTML }}
