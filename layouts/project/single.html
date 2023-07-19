@@ -16,15 +16,19 @@
   </div>
   <div class="container">
     <div class="project__wrapper">
+      {{ if .Params.article_image}}
       <div class="project__block">
         <img class="project__image" src="{{ .Params.article_image}}" alt="hal" />
       </div>
+      {{ end }}
       <div class="project__block">
         <div class="project__dates">
             <p>{{ with .Params.start_date }}{{ . }}{{ end }}  {{ if .Params.end_date }} - {{ .Params.end_date }} {{ else }} - obecnie {{ end }}</p>
         </div>
         <div class="project__descr-title">Kilka słów więcej</div>
+        {{ if .Params.short_description}}
         <div class="project__descr">{{.Params.short_description | safeHTML }}
+        {{ end }}
         </div>
       </div>
     </div>
