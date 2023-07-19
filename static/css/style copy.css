@@ -255,7 +255,6 @@
 }
 
 .archive-item {
-    display: flex;
     width: 400px;
     height: 400px;
     margin: 50px;
@@ -263,6 +262,7 @@
     padding: 5px;
     box-sizing: border-box;
     text-align: center;
+    overflow: auto;
 }
 
 .archive-item img {
@@ -274,9 +274,6 @@
     object-fit: cover;
 }
 
-.divider{
-    line-height: 0px;
-}
 .archive-item h2 {
     margin-top: 15px;
 }
@@ -591,10 +588,6 @@
     line-height:68px;
     margin-bottom:30px
 }
-.project__dates{
-    margin-bottom: 20px;
-    text-align: right;
-}
 .project__title{
     font-family:RadicalWut;
     font-size:60px;
@@ -641,10 +634,6 @@
         /* width:500px */
         transform: translate(0%, 0%);
     }
-    .project__dates{
-        text-align: center;
-        margin-bottom: 10px;
-    }
     .about__title{
         font-size:50px;
         line-height:58px
@@ -655,10 +644,6 @@
     .project__title{
         font-size:50px;
         line-height:58px
-    }
-    .project__dates{
-        text-align: center;
-        margin-bottom: 10px;
     }
 }
 @media (max-width:1024px){
@@ -727,6 +712,9 @@
     }
     .project__block:first-child{
         margin-right:0
+    }
+    .project__dates{
+
     }
     .project__image{
         margin-right:0
@@ -1045,12 +1033,6 @@
 .projects__square-white{
     border:2px solid #505050;
     background-color:transparent
-}
-.projects_recruitment{
-    background-color:#ededed;
-    padding-bottom: 0;
-    padding-top: 0;
-    position:relative
 }
 @media (max-width:1200px){
     .projects__item{
@@ -1831,27 +1813,7 @@ a:hover{
     text-decoration:none
 }
 h1,h2,h3,h4,h5,h6{
-    font-family:"Lexend",serif;
-    color: black;
-    font-weight: 500;
-}
-h1{
-    font-size: 2em; 
-}
-h2{
-    font-size: 1.5em;
-}
-h3{
-    font-size: 1.17em;
-}
-h4{
-    font-size: 1em;
-}
-h5{
-    font-size: 0.83em
-}
-h6{
-    font-size: 0.67em;
+    font-family:"Lexend",serif
 }
 section{
     padding:70px 0
