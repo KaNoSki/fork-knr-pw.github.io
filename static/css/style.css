@@ -489,6 +489,10 @@
     line-height:68px;
     margin-bottom:30px
 }
+.project__dates{
+    margin-bottom: 20px;
+    text-align: right;
+}
 .project__title{
     font-family:RadicalWut;
     font-size:60px;
@@ -534,6 +538,10 @@
     .about__image{
         /* width:500px */
         transform: translate(0%, 0%);
+    }
+    .project__dates{
+        text-align: center;
+        margin-bottom: 10px;
     }
     .about__title{
         font-size:50px;
