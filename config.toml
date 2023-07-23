@@ -2,6 +2,8 @@ baseURL = "https://knr.edu.pl/"
 languageCode = "pl-pl"
 title = "Koło Naukowe Robotyków PW"
 
+[markup.goldmark.renderer]
+unsafe= true
 
 [project]
 title = "Project"
