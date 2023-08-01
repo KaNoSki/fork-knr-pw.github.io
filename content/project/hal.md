@@ -1,6 +1,5 @@
 ---
 title: Łazik HAL-062
-url: "/hal"
 main_project_image: "/images/hal_small.jpg"
 article_image: "/images/hal/4.jpg"
 main_site: true

@@ -71,7 +71,7 @@
           {{ range .Site.RegularPages }}
             {{ if (eq .Params.main_site true)}}
               {{ $url := .Params.url }}
-              {{ $img_folder := (substr $url 1 ) }}
+              {{ $img_folder := .File.BaseFileName }}
               {{ $counter = add $counter 1 }}
               {{ if mod $counter 2 | eq 0 }}
                 <div class="projects__item projects__item-grey projects__item-reverse">
@@ -83,7 +83,7 @@
                       {{ .Params.main_site_item_descr }}
                     </div>
                     <div data-aos="fade-up">
-                      <a href="{{ .Params.url }}" class="projects__item-btn"> Więcej ... </a>
+                      <a href="{{ .Permalink }}" class="projects__item-btn"> Więcej ... </a>
                     </div>
                   </div>
                   <div data-aos="fade-up" class="projects__item-block">
@@ -118,7 +118,7 @@
                       {{ .Params.main_site_item_descr }}
                     </div>
                     <div data-aos="fade-up">
-                      <a href="{{ .Params.url }}" class="projects__item-btn"> Więcej ... </a>
+                      <a href="{{ .Permalink }}" class="projects__item-btn"> Więcej ... </a>
                     </div>
                   </div>
                   {{ if (gt $counter 1) }}

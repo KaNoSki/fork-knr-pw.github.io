@@ -1,6 +1,5 @@
 ---
 title: Selfie
-url: "/selfie"
 main_project_image: "/images/selfie/4.jpg"
 archive_image: "/images/selfie/4.jpg"
 main_site: false
