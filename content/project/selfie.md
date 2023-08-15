@@ -26,3 +26,34 @@ Do sukcesów zespołu można zaliczyć:
 - 🥈Drugie miejsce na zawodach Carolo - Cup w Niemczech w roku 2020
 - 🥉Trzecie miejsce na zawodach Carolo - Cup w Niemczech w roku 2022
 - 🥇Pierwsze miejsce na International Autonomous Robot Racing Challenge 2018 w Kanadzie
+
+{{< youtube Pu3k5PXgNqI >}}
+
+## Historia projektu
+
+W roku 2017 powstała pierwsza iteracja pojazdu, stanowiła ona swego rodzaju podstawę do dalszych działań zespołu.
+Pojazd ten został został przez nas wystawiony na zawodach autonomicznych modeli samochodów Carolo-Cup, odbywających się z inicjatywy
+Uniwersytetu Technicznego w Braunschweig w Niemczech,
+
+<!-- TODO zdjęcie V1 -->
+
+Na specjalnie symulowanym środowisku drogowym samochód samodzielnie wykonywał określone zadania takie jak: ustępowanie pierwszeństwa na skrzyżowaniu, omijanie przeszkód, parkowanie oraz wyprzedzanie.
+
+Pomimo tego że zespół zaczynał pracę nad projektem od podstaw, na zawodach Carolo Cup 2018
+zajął odpowiednio:
+
+- 4. miejsce w konkurencji z omijaniem przeszkód,
+- 5. miejsce w konkurencji z parkowaniem,
+- 6. miejsce za prezentację zastosowanych rozwiązań
+
+spośród 15 zespołów w kategorii basic.
+
+
+Wykorzystując doświadczenia przy budowie pierwszej iteracji. Rozpoczęto modernizację i ulepszanie pierwszego samochdu oraz budowę drugiego pojazdu, tym razem tworzonego pod zawody [IARRC 2018](https://robotracing.wordpress.com/) w Kanadzie.
+
+Na jego potrzeby zbudowano kolejną iterację pojazdu Selfie, której udało się zająć pierwsze miejsce.
+
+<img src="/images/selfie/Selfie_IAAC_2018.png"  width="75%" alt="Zdjęcie zespołu przygotowującego samochód do CaroloCup 2020" style="margin-left:12.5%">
+
+
+<!-- TODO reszta historii -->
