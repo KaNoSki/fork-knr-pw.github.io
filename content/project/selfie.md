@@ -9,7 +9,7 @@ short_description:
   " "
 ---
 
-Projekt Selfie w ramach Koła Naukowego Robotyków został powołany do życia w 2017 roku. Jego zadaniem było rozwijanie rozwiązań wykorzystywanych do budowania samochodów autonomicznych. Był on skoncentrowany głównie na budowie pojazdów autonomicznych w skali przygotowywanych do międzynarodowych zawodów takich jak Carolo Cup w Niemczech, czy [F1 TENTH](https://f1tenth.org/).
+Projekt Selfie w ramach Koła Naukowego Robotyków został powołany do życia w 2017 roku. Jego zadaniem było rozwijanie rozwiązań wykorzystywanych do budowania samochodów autonomicznych. Był on skoncentrowany głównie na budowie pojazdów autonomicznych w skali przygotowywanych do międzynarodowych zawodów takich jak [Carolo Cup](https://www.tu-braunschweig.de/carolo-cup/) w Niemczech, czy [F1 TENTH](https://f1tenth.org/).
 
 W ramach projektu powstały 4 iteracje pojazdu.
 W szczytowym momentcie nad projektem pracowało ponad 20 osób podzielonych na 3 zespoły:
@@ -35,7 +35,7 @@ W roku 2017 powstała pierwsza iteracja pojazdu, stanowiła ona swego rodzaju po
 Pojazd ten został został przez nas wystawiony na zawodach autonomicznych modeli samochodów Carolo-Cup, odbywających się z inicjatywy
 Uniwersytetu Technicznego w Braunschweig w Niemczech,
 
-<!-- TODO zdjęcie V1 -->
+<img src="/images/selfie/SelfieV1.jpg"  width="65%" alt="Pierwsza iteracja pojazdu określana mianem Selfie V1" style="margin-left:12.5%">
 
 Na specjalnie symulowanym środowisku drogowym samochód samodzielnie wykonywał określone zadania takie jak: ustępowanie pierwszeństwa na skrzyżowaniu, omijanie przeszkód, parkowanie oraz wyprzedzanie.
 
@@ -51,9 +51,9 @@ spośród 15 zespołów w kategorii basic.
 
 Wykorzystując doświadczenia przy budowie pierwszej iteracji. Rozpoczęto modernizację i ulepszanie pierwszego samochdu oraz budowę drugiego pojazdu, tym razem tworzonego pod zawody [IARRC 2018](https://robotracing.wordpress.com/) w Kanadzie.
 
-Na jego potrzeby zbudowano kolejną iterację pojazdu Selfie, której udało się zająć pierwsze miejsce.
+Na jego potrzeby zbudowano kolejną iterację pojazdu Selfie, której udało się zająć [pierwsze miejsce](https://www.robotcompetition.ca/iarrc2018/).
 
-<img src="/images/selfie/Selfie_IAAC_2018.png"  width="75%" alt="Zdjęcie zespołu przygotowującego samochód do CaroloCup 2020" style="margin-left:12.5%">
+<img src="/images/selfie/Selfie_IAAC_2018.png"  width="75%" alt="Zdjęcie pojazdu, który wziął udział w zawodach IARRC" style="margin-left:12.5%">
 
 
 <!-- TODO reszta historii -->
