@@ -9,7 +9,7 @@ main_site_item_images: ["1.jpg", "2.jpg", "3.jpg", "4.jpg"]
 start_date: 2017
 end_date:
 short_description:
-    "Łazik marsjański "HAL-062" brał udział w prestiżowych zawodach, 
+    'Łazik marsjański "HAL-062" brał udział w prestiżowych zawodach, 
     takich jak University Rover Challenge w USA i European Rover 
     Challenge w Kielcach. W trakcie zawodów, symulowana jest współpraca 
     pomiędzy robotem a astronautą podczas misji na marsie. Robot wyposażony 
@@ -18,5 +18,5 @@ short_description:
     łazikowi autonomiczną jazdę w trakcie konkurencji. Obecnie, w 2023
     roku, cieszymy się z faktu, że już trzecia iteracja łazika "HAL-062" 
     jest przygotowywana do udziału w kolejnych edycjach międzynarodowych
-    konkursów."
+    konkursów.'
 ---
