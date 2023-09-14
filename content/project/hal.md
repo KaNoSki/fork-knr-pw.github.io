@@ -14,7 +14,7 @@ short_description: " "
 <br><br>
 
 W ramach projektu powstały 3 iteracje łazika.
-Obecnie w strukturach naszego zespołu zasiada łącznie ??? członków. W projekcie wyrózniamy 5 działów:
+Obecnie w strukturach naszego zespołu zasiada łącznie 30 członków. W projekcie wyrózniamy 5 działów:
 
 - ⚙️ mechaniczny
 - 🔌 elektryczno/elektroniczny
