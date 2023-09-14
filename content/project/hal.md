@@ -2,14 +2,14 @@
 title: Łazik HAL-062
 main_project_image: "/images/hal/5.jpg"
 main_site: true
-main_site_item_descr: Łazik marsjański „HAL-062” to robot biorący udział w najbardziej prestiżowych zawodach na świecie ...
+main_site_item_descr: HAL-062 to innowacyjny projekt kołowego łazika marsjańskiego przygotowanego specjalnie na zawody ...
 main_site_item_images: ["1.jpg", "2.jpg", "3.jpg", "4.jpg", "5.jpg"]
 start_date: 2017
 end_date:
 short_description: " "
 ---
 
-Łazik marsjański "HAL-062" brał udział w prestiżowych zawodach, takich jak [University Rover Challenge](https://urc.marssociety.org/) w USA i [European Rover Challenge](https://roverchallenge.eu/) w Kielcach. Wyposażony w zawieszenie typu Rocker-Bogie, napęd różnicowy, manipulator o 6 stopniach swobody, kamery i GPS, jest używany do autonomicznej nawigacji. Obecnie, w 2023 roku, cieszymy się z faktu, że już trzecia iteracja łazika "HAL-062" jest przygotowywana do udziału w kolejnych edycjach międzynarodowych konkursów.
+Łazik marsjański to specjalny pojazd zaprojektowany do badania i eksploracji powierzchni Marsa, a "HAL-062" jest efektem naszej wizji o eksploracji kosmosu. Ponadto, "HAL-062" stanowi naszą odpowiedź na wyzwania stawiane przez prestiżowe zawody, takie jak [University Rover Challenge](https://urc.marssociety.org/) w USA, [European Rover Challenge](https://roverchallenge.eu/) w Kielcach oraz [Anatolian Rover Challenge](https://www.anatolianrover.space/) w Turcji. Wyposażony w zawieszenie typu Rocker-Bogie, napęd różnicowy, manipulator o 6 stopniach swobody, kamery i GPS, jest używany do autonomicznej nawigacji. Obecnie, w 2023 roku, cieszymy się z faktu, że już trzecia iteracja łazika "HAL-062" jest przygotowywana do udziału w kolejnych edycjach międzynarodowych konkursów.
 
 <br><br>
 
