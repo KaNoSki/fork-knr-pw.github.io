@@ -16,8 +16,10 @@
         <a href="{{ .RelPermalink }}">
           {{ if .Params.archive_image }}
             <img src="{{ .Params.archive_image }}" alt="{{ .Params.title }}" />
-          {{else}}
+          {{else if .Params.article_image}}
             <img src="{{ .Params.article_image }}" alt="{{ .Params.title }}" />
+          {{else}}
+            <img src="{{ .Params.main_project_image }}" alt="{{ .Params.title }}" />
           {{ end }}
           <h2 data-aos="fade-up">{{.Title}}</h2>
           <div class="archive-dates">
