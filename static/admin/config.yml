@@ -4,8 +4,9 @@
 locale: "pl"
 
 backend:
-  name: git-gateway
+  name: github
   branch: main
+  repo: KNR-PW/knr-pw.github.io
 
 #TODO zmiana położenia obrazów
 media_folder: "static/images"
