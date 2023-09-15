@@ -1,5 +1,5 @@
 # do testowania lokalnego
-local_backend: true #https://decapcms.org/docs/beta-features/#working-with-a-local-git-repository
+# local_backend: true #https://decapcms.org/docs/beta-features/#working-with-a-local-git-repository
 
 locale: "pl"
 
