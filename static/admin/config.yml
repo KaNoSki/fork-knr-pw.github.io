@@ -1,0 +1,27 @@
+# do testowania lokalnego
+local_backend: true #https://decapcms.org/docs/beta-features/#working-with-a-local-git-repository
+
+locale: "pl"
+
+backend:
+  name: git-gateway
+  branch: main
+
+#TODO zmiana położenia obrazów
+media_folder: "static/images"
+public_folder: "/images"
+
+collections:
+  - name: "project" # Used in routes, e.g., /admin/collections/blog
+    label: "Project" # Used in the UI
+    description: "Projekty realizowane przez koło"
+    folder: "content/project/" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", name: "title", widget: "string", required: true, hint: "Nazwa projektu"}
+      - {label: "Pokaż na głównej", name: "short_description", widget: "boolean", required: true, hint: "Czy pokazać projekt na stronie głównej koła", default: false}
+      - {label: "Opis na głównej stronie", name: "main_site_item_descr", widget: "text", hint: "Krótki opis projektu, który pojawi się na stronie głównej koła (o się tam znajdzie)"}
+      - {label: "Data rozpoczęcia projektu", name: "start_date", widget: "string"}
+      - {label: "Data zakończenia projektu", name: "end_date", widget: "string", hint: "Wypełnij tylko, jeśli projekt jest już zakończony"}
+      - {label: "Body", name: "body", widget: "markdown"}
+      #TODO dodać listę obrazków na główną
