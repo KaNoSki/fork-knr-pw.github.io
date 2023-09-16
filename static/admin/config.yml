@@ -7,8 +7,6 @@ backend:
   name: github
   branch: main
   repo: KNR-PW/knr-pw.github.io
-  api_root: https://api.github.com
-  auth_endpoint: auth
 
 #TODO zmiana położenia obrazów
 media_folder: "static/images"
