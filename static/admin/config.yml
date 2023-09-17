@@ -23,6 +23,6 @@ collections:
       - {label: "Pokaż na głównej", name: "short_description", widget: "boolean", required: true, hint: "Czy pokazać projekt na stronie głównej koła", default: false}
       - {label: "Opis na głównej stronie", name: "main_site_item_descr", widget: "text", hint: "Krótki opis projektu, który pojawi się na stronie głównej koła (o się tam znajdzie)"}
       - {label: "Data rozpoczęcia projektu", name: "start_date", widget: "string"}
-      - {label: "Data zakończenia projektu", name: "end_date", widget: "string", hint: "Wypełnij tylko, jeśli projekt jest już zakończony"}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Data zakończenia projektu", name: "end_date", widget: "string", hint: "Wypełnij tylko, jeśli projekt jest już zakończony", required: false}
+      - {label: "Body", name: "body", widget: "markdown", required: false}
       #TODO dodać listę obrazków na główną
