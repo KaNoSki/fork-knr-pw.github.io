@@ -15,7 +15,7 @@ public_folder: "/images"
 # Składnia kolekcji: https://decapcms.org/docs/configuration-options/#collections
 collections:
   - name: "project" # Used in routes, e.g., /admin/collections/blog
-    label: "Project" # Used in the UI
+    label: "Projekt" # Used in the UI
     description: "Projekty realizowane przez koło"
     folder: "content/project/" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
@@ -27,3 +27,11 @@ collections:
       - {label: "Data zakończenia projektu", name: "end_date", widget: "string", hint: "Wypełnij tylko, jeśli projekt jest już zakończony", required: false}
       - {label: "Body", name: "body", widget: "markdown", required: false}
       #TODO dodać listę obrazków na główną
+  - name: "article" # Used in routes, e.g., /admin/collections/blog
+    label: "Artykuł" # Used in the UI
+    description: "Inne artykuły na stronie"
+    folder: "content/article/" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields for each document, usually in front matter desccriptions: https://decapcms.org/docs/widgets/
+      - {label: "Title", name: "title", widget: "string", required: true, hint: "Nazwa projektu"}
+      - {label: "Body", name: "body", widget: "markdown", required: false}
