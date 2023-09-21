@@ -6,7 +6,7 @@ main_site: false
 start_date: 2017.01
 end_date: 2022.09
 short_description:
-  " "
+  "Projekt poświęcony budowaniu samochodów autonomicznych w skali."
 ---
 
 Projekt Selfie w ramach Koła Naukowego Robotyków został powołany do życia w 2017 roku. Jego zadaniem było rozwijanie rozwiązań wykorzystywanych do budowania samochodów autonomicznych. Był on skoncentrowany głównie na budowie pojazdów autonomicznych w skali przygotowywanych do międzynarodowych zawodów takich jak [Carolo Cup](https://www.tu-braunschweig.de/carolo-cup/) w Niemczech, czy [F1 TENTH](https://f1tenth.org/).
