@@ -75,7 +75,7 @@ to daj nam o tym znać, chętnie się dogadamy!
 </p>
 
 <h2 style="text-align: center;">  
-    <a href="https://discord.gg/gdT9zM2AmA)">Discord dla kandydatów </a>
+    <a href="https://discord.gg/7q5eHJuu27">Discord dla kandydatów </a>
 </h2>
 
 <br></br>
