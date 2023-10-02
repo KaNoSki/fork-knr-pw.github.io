@@ -645,7 +645,7 @@
     width:100%;
 }
 .project__descr{
-    text-align:left;
+    text-align:justify;
     font-size:20px
 }
 .project__descr p{
