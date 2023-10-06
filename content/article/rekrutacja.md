@@ -18,7 +18,7 @@ studiów, jak i poziomu doświadczenia, zapraszamy Cię do KNR!
 
 ### Zalety bycia w kole naukowym:
 
-- Możliwość nabycie praktycznych umiejętności, przydatnych w dalszej karierze zawodowej
+- Możliwość nabycia praktycznych umiejętności, przydatnych w dalszej karierze zawodowej
 - Zwiększona szansa na zdobycie stypendium rektora w wypadku, gdy bierzesz udział w projekcie, który będzie reprezentował uczelnię na zawodach
 - Możliwość zaliczenia przedmiotu działanością w kole po wypełnieniu [odpowiedniego wniosku](https://www.dss.pw.edu.pl/Ksztalcenie/Wzory-dokumentow/Wzory-dokumentow)
 - Dostęp do dobrze wyposażonego warsztatu
