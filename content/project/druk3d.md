@@ -16,4 +16,6 @@ Sekcja Druku 3D w naszym kole naukowym to miejsce, gdzie realizujemy naszą pasj
 
 Jednym z naszych największych osiągnięć jest stworzenie systemu do zdalnego zarządzania naszymi drukarkami 3D. Dzięki niemu możemy włączyć drukarki, monitorować postęp drukowania oraz kontrolować proces z dowolnego miejsca, co znacznie ułatwia nam pracę i pozwala efektywniej wykorzystywać nasze urządzenia.
 
+<img src="/images/druk3d/drukarka.jpg" width="60%" alt="Jedna ze zbudowanych przez nas drukarek 3D." style="margin-left:20%">
+
 Nasza sekcja Druku 3D aktywnie uczestniczy w życiu społeczności uczelni i lokalnej społeczności. W ubiegłym roku mieliśmy przyjemność wspierać kiermasz świąteczny naszej uczelni, tworząc ozdoby i dekoracje przy użyciu naszych drukarek 3D.  Dodatkowo, nasza sekcja Druku 3D regularnie drukuje części dla innych projektów w naszym kole naukowym. To pomaga w szybkim testowaniu prototypów oraz produkcji nietypowych części, co stanowi istotne wsparcie dla innych działów i projektów w ramach naszej organizacji.
