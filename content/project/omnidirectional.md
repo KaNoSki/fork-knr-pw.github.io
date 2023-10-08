@@ -1,6 +1,6 @@
 ---
 title: Pojazd Omnidirectional
-main_project_image: "/images/omni/omni-kolo.png"
+main_project_image: "/images/omni/PlatformaOmni-01.jpg"
 main_site: false
 start_date:
 end_date: 2023
