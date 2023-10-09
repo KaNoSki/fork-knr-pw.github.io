@@ -3,6 +3,7 @@ const navClosedIcon = document.querySelector("#navClosed");
 const navOpenIcon = document.querySelector("#navOpen");
 const navIcon = document.querySelectorAll(".navIcon");
 const nav = document.querySelector("nav");
+const navMobileSection = document.querySelectorAll('.navbar-link');
 
 navToggle.addEventListener("click", () => {
   nav.classList.toggle("open");
@@ -11,6 +12,14 @@ navToggle.addEventListener("click", () => {
   });
 });
 
+
+navMobileSection.forEach((link) => {
+    link.addEventListener('click', () => {
+        if (link.hasAttribute('href')) {
+            nav.classList.remove("open");
+        };
+    });
+});
 
 window.addEventListener(
   "resize", () => {
