@@ -36,10 +36,11 @@
           </p>
         </div>
         <div class="project__descr-title">Kilka słów więcej</div>
-        {{ if .Params.short_description}}
-        <div class="project__descr">{{.Params.short_description | safeHTML }}
-        {{ end }}
+        {{ if .Params.article_image}}
+        <div class="project__descr">
+            {{.Params.short_description | safeHTML }}
         </div>
+        {{ end }}
       </div>
     </div>
 

@@ -35,7 +35,7 @@ W roku 2017 powstała pierwsza iteracja pojazdu, stanowiła ona swego rodzaju po
 Pojazd ten został został przez nas wystawiony na zawodach autonomicznych modeli samochodów Carolo-Cup, odbywających się z inicjatywy
 Uniwersytetu Technicznego w Braunschweig w Niemczech,
 
-<img src="/images/selfie/SelfieV1.jpg"  width="65%" alt="Pierwsza iteracja pojazdu określana mianem Selfie V1" style="margin-left:12.5%">
+<img src="/images/selfie/SelfieV1.jpg"  width="65%" alt="Pierwsza iteracja pojazdu określana mianem Selfie V1" style="margin-left:17.5%">
 
 Na specjalnie symulowanym środowisku drogowym samochód samodzielnie wykonywał określone zadania takie jak: ustępowanie pierwszeństwa na skrzyżowaniu, omijanie przeszkód, parkowanie oraz wyprzedzanie.
 
