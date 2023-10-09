@@ -239,7 +239,6 @@
     padding-bottom:50px;
     font-family: RadicalWut;
 }
-
 .archive-gallery{
     margin-left: auto;
     display: flex;
@@ -247,7 +246,6 @@
     justify-content: center;
     align-items: center;
 }
-
 .archive-item {
     display: flex;
     width: 400px;
@@ -258,24 +256,20 @@
     box-sizing: border-box;
     text-align: center;
 }
-
 .archive-item img {
     height: 250px;
-    width: 100%;
+    width: 390px;
     display: block;
     outline: 2px solid #212529;
     border-radius: 20px;
     object-fit: cover;
 }
-
 .archive-dates{
     text-align: center;
 }
-
 .archive-header{
     margin-top:5px;
 }
-
 .divider{
     background-color: #c0bdbd;
     line-height: 0;
@@ -289,15 +283,16 @@
     margin-top: 5px;
     margin-bottom: 0px;
 }
-
 .archive-item p {
     margin-top: 5px;
 }
-
 .archive-item a{
     color:#212529;
 }
-.archive-item :hover{
+.archive-item:hover,
+.archive-item:hover a,
+.archive-item:hover p,
+.archive-item:hover h2{
     color:#007bff;
 }
 
