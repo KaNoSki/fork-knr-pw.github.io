@@ -170,20 +170,14 @@
 }
 @media (max-height: 740px){
     .open ul li a{
-        font-size: 25px;
+        font-size: 20px;
     }
     .open ul li ul li a{
         font-size: 15px;
         padding: 5px;
     }
-}
-@media (min-height: 800px){
-    .open ul li a{
-        font-size: 27px;
-    }
-    .open ul li ul li a{
-        font-size: 18px;
-        padding: 8px;
+    .open > ul > li{
+        padding-bottom: 10px;
     }
 }
 @media (min-height: 1000px){
