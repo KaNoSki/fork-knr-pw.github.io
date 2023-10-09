@@ -29,7 +29,7 @@ Obecnie w strukturach naszego zespołu zasiada łącznie 30 członków. W projek
 
 <br><br>
 
-<img src="/images/hal/4.jpg" width="65%" alt="Zespol lazika marsjanskiego na zawodach Univeristy Rover Challenge" style="margin-left:15%">
+<img src="/images/hal/4.jpg" width="65%" alt="Zespol lazika marsjanskiego na zawodach Univeristy Rover Challenge">
 
 By sprostać wymaganiom konkursowym zaprojektowaliśmy wymienne moduły operacyjne, w tym: manipulator, stację odwiertową oraz stację badawczą. Również w tym roku pracujemy nad nowym, dodatkowym modułem - stacją lądowania dla drona ekspedycyjnego, również na potrzeby konkursowe.
 
@@ -57,7 +57,7 @@ Nasz zespół Łazika "HAL-062" ma na swoim koncie takie sukcesy jak:
 
 <br><br>
 
-<img src="/images/hal.jpg"  width="85%" alt="Lazik marsjanski na zawodach Univeristy Rover Challenge" style="margin-left:8%">
+<img src="/images/hal.jpg"  width="85%" alt="Lazik marsjanski na zawodach Univeristy Rover Challenge">
 
 <br><br>
 

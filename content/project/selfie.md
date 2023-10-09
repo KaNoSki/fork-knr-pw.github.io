@@ -18,7 +18,7 @@ W szczytowym momentcie nad projektem pracowało ponad 20 osób podzielonych na 3
  - elektroników i programistów niskopoziomowych
  - Zespół programistów wysokopoziomowych
 
-<img src="/images/selfie/SelfieCarolo2020FullSkład.png"  width="75%" alt="Zdjęcie zespołu przygotowującego samochód do CaroloCup 2020" style="margin-left:12.5%">
+<img src="/images/selfie/SelfieCarolo2020FullSkład.png"  width="75%" alt="Zdjęcie zespołu przygotowującego samochód do CaroloCup 2020">
 
 Do sukcesów zespołu można zaliczyć:
 
@@ -35,7 +35,7 @@ W roku 2017 powstała pierwsza iteracja pojazdu, stanowiła ona swego rodzaju po
 Pojazd ten został został przez nas wystawiony na zawodach autonomicznych modeli samochodów Carolo-Cup, odbywających się z inicjatywy
 Uniwersytetu Technicznego w Braunschweig w Niemczech,
 
-<img src="/images/selfie/SelfieV1.jpg"  width="65%" alt="Pierwsza iteracja pojazdu określana mianem Selfie V1" style="margin-left:17.5%">
+<img src="/images/selfie/SelfieV1.jpg"  width="65%" alt="Pierwsza iteracja pojazdu określana mianem Selfie V1">
 
 Na specjalnie symulowanym środowisku drogowym samochód samodzielnie wykonywał określone zadania takie jak: ustępowanie pierwszeństwa na skrzyżowaniu, omijanie przeszkód, parkowanie oraz wyprzedzanie.
 
@@ -53,7 +53,7 @@ Wykorzystując doświadczenia przy budowie pierwszej iteracji. Rozpoczęto moder
 
 Na jego potrzeby zbudowano kolejną iterację pojazdu Selfie, której udało się zająć [pierwsze miejsce](https://www.robotcompetition.ca/iarrc2018/).
 
-<img src="/images/selfie/Selfie_IAAC_2018.png"  width="75%" alt="Zdjęcie pojazdu, który wziął udział w zawodach IARRC" style="margin-left:12.5%">
+<img src="/images/selfie/Selfie_IAAC_2018.png"  width="75%" alt="Zdjęcie pojazdu, który wziął udział w zawodach IARRC">
 
 
 <!-- TODO reszta historii -->
