@@ -56,6 +56,9 @@
     float: left;
     list-style: none;
 }
+.navbar{
+    float: right;
+}
 .navbar ul li:focus-within > ul,
 .navbar ul li:hover > ul{
     display: initial;
