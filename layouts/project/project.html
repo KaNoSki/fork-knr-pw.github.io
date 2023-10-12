@@ -15,11 +15,20 @@
       <div class="archive-item" data-aos="fade-up">
         <a href="{{ .RelPermalink }}">
           {{ if .Params.archive_image }}
-            <img src="{{ .Params.archive_image }}" alt="{{ .Params.title }}" />
+            {{ $image := resources.GetMatch .Params.archive_image }}
+            {{ with $image }}
+              <img src="{{ ( $image.Resize `390x250 q75` ).RelPermalink }}" alt="{{ .Params.title }}">
+            {{ end }}
           {{else if .Params.article_image}}
-            <img src="{{ .Params.article_image }}" alt="{{ .Params.title }}" />
+            {{ $image := resources.GetMatch .Params.article_image }}
+            {{ with $image }}
+              <img src="{{ ( $image.Resize `390x250 q75` ).RelPermalink }}" alt="{{ .Params.title }}">
+            {{ end }}
           {{else}}
-            <img src="{{ .Params.main_project_image }}" alt="{{ .Params.title }}" />
+            {{ $image := resources.GetMatch .Params.main_project_image }}
+            {{ with $image }}
+              <img src="{{ ( $image.Resize `390x250 q75` ).RelPermalink }}" alt="{{ .Params.title }}">
+            {{ end }}
           {{ end }}
           <h2 data-aos="fade-up">{{.Title}}</h2>
           <div class="archive-dates">
