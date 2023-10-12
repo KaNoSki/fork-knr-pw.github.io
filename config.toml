@@ -14,3 +14,8 @@ plural = "projects"
 title = "Artykuł"
 singular = "article"
 plural = "articles"
+
+[module]
+[[module.mounts]]
+    target = "assets/images"
+    source = "static/images"
