@@ -9,7 +9,7 @@ url: /rekrutacja
 <br></br>
 
 Czy marzysz o fascynującej przygodzie w świat robotyki i nowoczesnych
-technologii? Chciałbyś zacząć tworzyć przyszłość już dzisiaj? Rozwijać
+technologii? Chcesz zacząć tworzyć przyszłość już dzisiaj? Rozwijać
 ciekawe projekty i urozmaicić swoje studenckie życie? Jeśli tak, to
 jesteś we właściwym miejscu! Koło Naukowe Robotyków to miejsce, gdzie
 pasjonaci inżynierii spotykają się, by razem rozwiązywać problemy,
@@ -86,4 +86,10 @@ to daj nam o tym znać, chętnie się dogadamy!
     <a href="https://discord.gg/7q5eHJuu27">Discord dla kandydatów </a>
 </h2>
 
-<br></br>
+## FAQ
+
+**Q:** Czy muszę posiadać jakieś konkretne umiejętności, aby móc dołączyć do koła?  
+**A:** Nie, wszsytkiego się nauczysz pracując z nami. Koło naukowe jest miejscem do którego przychodzisz zdobyć praktyczne umiejętności. Z tego powodu najważniejsza jest pasja oraz chęć do pracy.
+
+**Q:** Jak wygląda praca w kole?  
+**A:** Sposób oraz organizacja pracy w kole zależy od projektu oraz zespołu w ramach którego pracujesz. Jeśli np. należysz do zespołu mechnaików pracujących nad łazikiem możecie mieć wspólne spotkania robocze co tydzień/dwa.
