@@ -14,3 +14,5 @@ W projekcie działają 3 zespoły:
 - 🔧Mechaniczny
 - 💡Elektroniczny
 - 💻Programistyczny
+
+Cały kod źródłowy kykorzystywany przy projekcie jest ogólnodostępny na [repozytorium GitHub](https://github.com/KNR-PW/omnidirectional).
