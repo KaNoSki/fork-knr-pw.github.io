@@ -17,17 +17,17 @@
           {{ if .Params.archive_image }}
             {{ $image := resources.GetMatch .Params.archive_image }}
             {{ with $image }}
-              <img src="{{ ( $image.Resize `390x250 q75` ).RelPermalink }}" alt="{{ .Params.title }}">
+              <img src="{{ ( $image.Fit `390x250 q75` ).RelPermalink }}" alt="{{ .Params.title }}">
             {{ end }}
           {{else if .Params.article_image}}
             {{ $image := resources.GetMatch .Params.article_image }}
             {{ with $image }}
-              <img src="{{ ( $image.Resize `390x250 q75` ).RelPermalink }}" alt="{{ .Params.title }}">
+              <img src="{{ ( $image.Fit `390x250 q75` ).RelPermalink }}" alt="{{ .Params.title }}">
             {{ end }}
           {{else}}
             {{ $image := resources.GetMatch .Params.main_project_image }}
             {{ with $image }}
-              <img src="{{ ( $image.Resize `390x250 q75` ).RelPermalink }}" alt="{{ .Params.title }}">
+              <img src="{{ ( $image.Fit `390x250 q75` ).RelPermalink }}" alt="{{ .Params.title }}">
             {{ end }}
           {{ end }}
           <h2 data-aos="fade-up">{{.Title}}</h2>
