@@ -12,6 +12,8 @@ Komenda `hugo server` uruchomi dynamiczny serwer z zawartością.
 
 Do samodzielnego zbudowania samych plików wystarczy komenda `hugo`, która zbuduje witrynę w folderze `public`.
 
+DO prostego edytowania zawartości poszczególnych stron można wykorzystać panel administracyjny: https://knr.edu.pl/admin/
+
 ### Zawartość projektu
 
 ```tree
