@@ -17,8 +17,9 @@ Do samodzielnego zbudowania samych plików wystarczy komenda `hugo`, która zbud
 ```tree
 config.toml
 content
-└── project  //Tutaj znajdują się wszystkie strony poszczególnych projektów jak selfie, hal, melson
-             // jak chcesz dodać nowy projekt to tutaj
+├── project  //Tutaj znajdują się wszystkie strony poszczególnych projektów jak selfie, hal, melson
+|             // jak chcesz dodać nowy projekt to tutaj
+└── article //Tutaj znajdują się inne proste podstrony. Np strona rekrutacji, strona dla sponsorów etc.
 data
 layouts  // templatki z których budowane są różne typy stron
 ├── CNAME
@@ -33,3 +34,23 @@ static //pliki statyczne, fonty, obrazki etc
 ├── images
 └── js
 ```
+
+### Zawartość danej strony
+
+Każda strona jest tutaj reprezentowana jako plik `.md`, który wygląda w up[roszczeniu tak:
+
+```md
+---
+title: "Sekcja druku 3D"
+main_project_image: "/images/druk3d/wydruki.jpg"
+archive_image: "/images/druk3d/wydruki.jpg"
+main_site: false
+short_description:
+  "jakiś opis."
+---
+
+Tekst napisany w markdownie
+```
+
+Pierwsza połowa pliku to parametry druga to już sam tekst artykułu.  
+Strona jest renderowana bazując na templatkach ([link do dokumentacji](https://gohugo.io/templates/introduction/)).
