@@ -89,7 +89,9 @@
                   <div data-aos="fade-up" class="projects__item-block">
                     <div class="projects__item-slider">
                       {{ range .Params.main_site_item_images }}
-                      <img src="/images/{{ $img_folder }}/{{ . }}" alt="{{ $img_folder }} {{ . }}" />
+                        {{ $image_path := printf "/images/%s/%s" $img_folder . }}
+                        {{ $image := resources.GetMatch $image_path }}
+                        <img src="{{ ( $image.Fit `800x600 q75` ).RelPermalink }}" alt="{{ $image_path }}" />
                       {{ end }}
                     </div>
                   </div>
@@ -106,7 +108,9 @@
                   <div data-aos="fade-up" class="projects__item-block">
                     <div class="projects__item-slider">
                       {{ range .Params.main_site_item_images }}
-                        <img src="/images/{{ $img_folder }}/{{ . }}" alt="{{ $img_folder }} {{ . }}" />
+                        {{ $image_path := printf "/images/%s/%s" $img_folder . }}
+                        {{ $image := resources.GetMatch $image_path }}
+                        <img src="{{ ( $image.Fit `800x600 q75` ).RelPermalink }}" alt="{{ $image_path }}" />
                       {{ end }}
                     </div>
                   </div>
