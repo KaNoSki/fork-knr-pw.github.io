@@ -31,6 +31,34 @@
     <link rel="stylesheet" type="text/css" href="/css/slick-theme.css" />
     <link rel="stylesheet" href="/css/aos.css" />
     <link rel="stylesheet" href="/css/style.css" />
+
+    {{ if .Params.archive_image }}
+      {{ $image := resources.GetMatch .Params.archive_image }}
+        {{ with $image }}
+          <meta property="og:image" content="{{ ( $image.Fit `390x250 q75` ).RelPermalink }}">
+        {{ end }}
+    {{else if .Params.article_image}}
+      {{ $image := resources.GetMatch .Params.article_image }}
+        {{ with $image }}
+          <meta property="og:image" content="{{ ( $image.Fit `390x250 q75` ).RelPermalink }}">
+        {{ end }}
+    {{else}}
+      {{ $image := resources.GetMatch .Params.main_project_image }}
+        {{ with $image }}
+          <meta property="og:image" content="{{ ( $image.Fit `390x250 q75` ).RelPermalink }}">
+        {{ end }}
+    {{ end }}
+
+    <meta property="og:title" content="{{ .Title }}">
+
+    {{ if .Params.short_description }}
+      <meta property="og:description" content="{{ .Params.short_description }}">
+    {{ end }}
+
+    <meta property="og:url" content="{{ .Permalink }}">
+
+    <meta property="og:type" content="article">
+
     <title>{{ .Title }}</title>
   </head>
     <body>
