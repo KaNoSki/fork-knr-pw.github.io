@@ -89,7 +89,7 @@ to daj nam o tym znać, chętnie się dogadamy!
 <br></br>
 
 <h2 align="center">FAQ</h2>
-<div>
+
 <details>
   <summary>Czy muszę posiadać jakieś konkretne umiejętności, aby móc dołączyć do koła? </summary>
 
@@ -100,4 +100,3 @@ to daj nam o tym znać, chętnie się dogadamy!
   
   * Sposób oraz organizacja pracy w kole zależy od projektu oraz zespołu w ramach którego pracujesz. Jeśli np. należysz do zespołu mechnaików pracujących nad łazikiem możecie mieć wspólne spotkania robocze co tydzień/dwa.
 </details>
-</div>
