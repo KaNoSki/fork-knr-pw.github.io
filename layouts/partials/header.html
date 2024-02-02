@@ -32,34 +32,45 @@
     <link rel="stylesheet" href="/css/aos.css" />
     <link rel="stylesheet" href="/css/style.css" />
 
+    <!-- Zdjęcia podglądów dla social mediów -->
     {{ if .Params.archive_image }}
       {{ $image := resources.GetMatch .Params.archive_image }}
         {{ with $image }}
-          <meta property="og:image" content="{{ ( $image.Fit `390x250 q75` ).RelPermalink }}">
+          <meta property="og:image" content="{{ ( $image.Fit `1200x630 q75` ).RelPermalink }}" />
         {{ end }}
-    {{else if .Params.article_image}}
-      {{ $image := resources.GetMatch .Params.article_image }}
-        {{ with $image }}
-          <meta property="og:image" content="{{ ( $image.Fit `390x250 q75` ).RelPermalink }}">
-        {{ end }}
-    {{else}}
+    {{ else if .Params.main_project_image }}
       {{ $image := resources.GetMatch .Params.main_project_image }}
         {{ with $image }}
-          <meta property="og:image" content="{{ ( $image.Fit `390x250 q75` ).RelPermalink }}">
+          <meta property="og:image" content="{{ ( $image.Fit `1200x630 q75` ).RelPermalink }}" />
         {{ end }}
+    {{ else }}
+          <!-- domyślne zdjęcie -->
+          <meta property="og:image" content="/images/hal.jpg" />
     {{ end }}
 
-    <meta property="og:title" content="{{ .Title }}">
-
+    <!-- opis podglądu social mediów  -->
     {{ if .Params.short_description }}
-      <meta property="og:description" content="{{ .Params.main_site_item_descr }}">
+    <meta property="og:description" content="{{ .Params.short_description }}">
     {{ end }}
 
     <meta property="og:url" content="{{ .Permalink }}">
 
+    
+    <!-- tytuły strony domyślnie, zmiana dla archiwum -->
+    <title property="og:title" >
+    {{ if ne .Section "project" }}
+      {{ .Title }}
+    {{ else }}
+      {{ .Site.Params.project.title }} {{ with .Params.Title }} - {{ . }} {{ end }}
+    {{ end }}
+    </title>
+
     <meta property="og:type" content="article">
 
-    <title>{{ .Title }}</title>
+    <title>
+      
+    </title>
+    
   </head>
     <body>
     <header id="header" class="header">

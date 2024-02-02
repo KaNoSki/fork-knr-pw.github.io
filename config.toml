@@ -19,3 +19,7 @@ plural = "articles"
 [[module.mounts]]
     target = "assets/images"
     source = "static/images"
+
+[params]
+  [params.project]
+    title = 'Projekty KNR'
