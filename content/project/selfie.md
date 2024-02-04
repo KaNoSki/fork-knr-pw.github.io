@@ -23,8 +23,9 @@ W szczytowym momentcie nad projektem pracowało ponad 20 osób podzielonych na 3
 Do sukcesów zespołu można zaliczyć:
 
 - 🥇Pierwsze miejsce na International Autonomous Robot Racing Challenge 2018 w Kanadzie
-- 🥈Drugie miejsce na zawodach Carolo - Cup w Niemczech w roku 2020
-- 🥉Trzecie miejsce na zawodach Carolo - Cup w Niemczech w roku 2022
+- 🥈Drugie miejsce na zawodach Carolo - Cup Basic w Niemczech w roku 2020
+- 🥇Pierwsze miejsce na zawodach Carolo - Cup Basic w Niemczech w roku 2021
+- 🥉Trzecie miejsce na zawodach Carolo - Cup Advanced w Niemczech w roku 2022
 - 🥇Pierwsze miejsce na International Autonomous Robot Racing Challenge 2018 w Kanadzie
 
 {{< youtube Pu3k5PXgNqI >}}
@@ -56,4 +57,27 @@ Na jego potrzeby zbudowano kolejną iterację pojazdu Selfie, której udało si�
 <img src="/images/selfie/Selfie_IAAC_2018.png"  width="75%" alt="Zdjęcie pojazdu, który wziął udział w zawodach IARRC">
 
 
+<!-- CaroloCup 2019 -->
+
+Po występie w Kanadzie zespół podzielił się, aby móc równolegle przygotowywać się do zawodów CaroloCup oraz F1 Tenth.
+
+Pierwsze wystąpienie na CaroloCup w kategorii podstawowej zaowocowało zajęciem 6-tego miejsca.
+
+{{< youtube ogprpJ1HzBE >}}
 <!-- TODO reszta historii -->
+
+## Wkład naukowy
+
+Poza doświadczeniami zdobytymi przez zespół projekt Selfie pozostawił po sobie trwały ślad. Jest to zarówno wkład naukowy na który składają się publikacje powstałe w związku z konferencjami, jak i kilka prac dyplomowych, które powstały przy okazji projektu. Inną trwałą pozostałością projektu jest ogólnodostępne repozytorium kodu dostępne na GitHubie. Znajduje się tam nie tylko kod, lecz także dokumentacja pozwalająca zrozumieć w jaki sposób zbudowano systemy samochodu.
+
+Konferencje
+
+- https://ieeexplore.ieee.org/document/8755418
+
+Publikacje:
+
+Prace dyplomowe:
+
+- https://repo.pw.edu.pl/info/bachelor/WUTd328ad533ed0490bb7275fdb6cdc81db/
+
+<!-- TODO -->

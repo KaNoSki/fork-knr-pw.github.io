@@ -4,7 +4,7 @@ Repozytorium zawierające stronę Koła Naukowego Robotyków
 
 ## Budowanie i edycja
 
-Strona jest budowana za pomocą statycznego generatora [Hugo](https://gohugo.io/)
+Strona jest budowana za pomocą statycznego generatora [Hugo](https://gohugo.io/) i hostowana z pomocą [GitHub Pages](https://pages.github.com/)
 
 Do wygodnej edycji strony lokalnie należy [zainstalować hugo](https://gohugo.io/installation/) (Np na linuxie `sudo apt install hugo`)
 

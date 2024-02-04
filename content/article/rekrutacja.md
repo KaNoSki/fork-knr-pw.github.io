@@ -88,10 +88,18 @@ to daj nam o tym znać, chętnie się dogadamy!
     <a href="https://discord.gg/7q5eHJuu27">Discord dla kandydatów </a>
 </h2>
 
-## FAQ
+<br></br>
 
-**Q:** Czy muszę posiadać jakieś konkretne umiejętności, aby móc dołączyć do koła?  
-**A:** Nie, wszsytkiego się nauczysz pracując z nami. Koło naukowe jest miejscem do którego przychodzisz zdobyć praktyczne umiejętności. Z tego powodu najważniejsza jest pasja oraz chęć do pracy.
+<h2 align="center">FAQ</h2>
+<div>
+<details>
+  <summary>Czy muszę posiadać jakieś konkretne umiejętności, aby móc dołączyć do koła? </summary>
 
-**Q:** Jak wygląda praca w kole?  
-**A:** Sposób oraz organizacja pracy w kole zależy od projektu oraz zespołu w ramach którego pracujesz. Jeśli np. należysz do zespołu mechnaików pracujących nad łazikiem możecie mieć wspólne spotkania robocze co tydzień/dwa.
+  * Nie, wszytkiego się nauczysz pracując z nami. Koło naukowe jest miejscem do którego przychodzisz zdobyć praktyczne umiejętności. Z tego powodu najważniejsza jest pasja oraz chęć do pracy.
+</details>
+<details>
+  <summary>Jak wygląda praca w kole?</summary>
+  
+  * Sposób oraz organizacja pracy w kole zależy od projektu oraz zespołu w ramach którego pracujesz. Jeśli np. należysz do zespołu mechnaików pracujących nad łazikiem możecie mieć wspólne spotkania robocze co tydzień/dwa.
+</details>
+</div>
