@@ -1944,6 +1944,54 @@ div details ul {
     -webkit-transition:0.3s;
     transition:0.3s
 }
+/* Styl do haczyka na stronie głównej */
+.haczyk_status{
+    margin-bottom: 1rem;
+    display: flex;
+    cursor: pointer;
+}
+.haczyk_left {
+    position: relative;
+    width: 160px;
+    height: 40px;
+    margin: auto;
+    border-radius: 25px 0px 0px 25px;
+    background-color: #000000;
+    border-spacing: 0;
+}
+.haczyk_right {
+    position: relative;
+    width: 25px;
+    height: 40px;
+    margin: auto;
+    border-radius: 0px 25px 25px 0px;
+    border-spacing: 0;
+}
+.haczyk_key_on{
+    background-color: #008ae6;
+}
+.haczyk_key_off{
+    background-color: #424242;
+}
+.haczyk_key_error{
+    background-color: red;
+}
+.haczyk_left_text {
+    position: absolute;
+    height: 0%;
+    text-align: center;
+    top: 50%;
+    left: 25px;
+    width:80%;
+    font-weight: 700;
+    font-size: 19px;
+    line-height: 0;
+    margin: 0;
+    justify-content: center;
+    color: #ffffff;
+    white-space: nowrap;
+    user-select: none;
+}
 @media (max-width:767px){
     .footer__wrapper{
         -webkit-box-orient:vertical;
