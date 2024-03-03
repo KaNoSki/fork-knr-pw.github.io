@@ -11,7 +11,7 @@ function handleError(){
 }
 
 function getState(){
-    fetch('http://127.0.0.1:5000/hooks')
+    fetch('https://hangwatch.knr.edu.pl/hooks')
     .then(odpowiedz=>odpowiedz.json())
     .then(data => {
         for (const key in data) {
