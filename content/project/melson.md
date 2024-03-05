@@ -14,25 +14,25 @@ main_site_item_images:
 title: Melson
 short_description: true
 ---
-Jesteśmy sekcją zajmującą się robotami kroczącymi, czyli takimi konstrukcjami które w wyglądzie i poruszaniu się przypominają człowieka. Nasz zespół składa się z kilkunastu studentów PW prężnie rozwijących projekty robotów humanoidalnych i konkurujących na zawodach z projektami z całego świata.
+Jesteśmy sekcją zajmującą się robotami kroczącymi, czyli takimi konstrukcjami które w wyglądzie i poruszaniu się przypominają człowieka. Nasz zespół składa się z ponad 20 studentów i studentek PW prężnie rozwijających równolegle 4 projekty konkurujące na międzynarodowych zawodach.
 
 ## A kogo mamy na stanie? Poznajmy ich:
 
 <img src="/images/melson/melson.png"  width="75%" alt="Melson machający do tłumów">
 
-Melson - najstarszy z rodzeństwa – Melson powstał jako pierwsza konstrukcja koła mając za zadanie przetarcie szlaków w dziedzinie humanoidalnych robotów kroczących. Konstrukcja z elementów wytworzonych drukarkach 3D. Posiada 21 stopni swobody, naśladując przy tym człowieka w ruchu i postawe. Jako kołowy pionier w konkursach robotycznych posiada możliwości do walk sumo jak i brania udziałów w sprintach. Jest w stanie grać w piłkę nożną na zawodach Robocup.
+Melson - najmniejszy z naszych robotów – powstał jako pierwsza konstrukcja naszego koła naukowego mając za zadanie przetarcie szlaków w dziedzinie humanoidalnych robotów kroczących. Konstrukcja z elementów wytworzonych na drukarkach 3D oraz 19 wysokiej klasy serwonapędów pozwala mu naśladować ruchy człowieka. Jako kołowy pionier w konkursach robotycznych stoczył niejeden pojedynek na ringu SUMO, jak i popisał się na zawodach "freestyle". Jako dojrzały projekt stanowi świetny wstęp dla aspirujących robotyków.
 
 <img src="/images/melson/melania.png"  width="50%" alt="Melania">
 
-Melania – młodsza siostra melsona – Melania jest to robotka \[można zmienić robot/robotka] której konstrukcja oparta jest na giętych blaszkach aluminiowych. Stanowi następne wcielenie Melsona, posiada lepsze parametry mechaniczne. Na zawodach pokazuje się w kategorii freestyle. Wraz z Melsonem tworzy drużynę do gry w piłkę na zawodach Robocup. Uzbrojona w kamerę do rozpoznawania twarzy i potrafiąca rozpoznawać emocję człowieka na podstawie mimiki, świetnie prezentuje się na pokazach naukowych.
+Melania – młodsza siostra Melsona – jest to robotka \[można zmienić robot/robotka] której konstrukcja oparta jest na giętych blaszkach aluminiowych. Stanowi swego rodzaju ewolucję naszego pierwszego robota dzięki wytrzymalszej konstrukcji, mocniejszym napędom i mocniejszej jednostce obliczeniowej. Uzbrojona w kamerę do rozpoznawania twarzy potrafi rozpoznawać emocje człowieka na podstawie jego mimiki, jak i poprowadzić z nim konwersacje.
 
 <img src="/images/melson/melchior-pudlarz.png"  width="50%" alt="Melchior-pudlarz">
 
-Melchior – najnowszy w rodzinie – od niedawna znajdujący się w przestrzeni koła robot. Konstrukcja na podstawie aluminiowych elementów. Posiadający czujniki nacisku na podstawie których możemy oszacować rozkładane siły na stopie. Wraz z Melanią i Melsonem przygotowywany do zawodów.
+Melchior – nasz nowy robot – od niedawna znajdujący się w przestrzeni koła humanoid o budowie podobnej do Melanii. W Swoich stopach posiada czujniki nacisku, dzięki którym nasz zespół bada różnego rodzaju chód uzyskany przez odwrotną kinematykę czy nawet uczenie maszynowe.
 
 <img src="/images/melson/meldog_noga.png"  width="30%" alt="Pierwsza z nóg meldoga">
 
-Meldog – najlepszy przyjaciel człowieka – Prężnie rozwijany projekt koła mający za zadanie zbudowanie nogi robopsa. Technologia używana w tym projekcie jest czymś nowym dla naszej pracy, ruch odbywa się przy użyciu silników BLDC, a nie serwomechanizmów jak to miało miejsce przy pozostałych robotach. Projekt posłuży w niedalekiej przyszłości do konstrkucji pełno wymiarowego czworonoga, a w przysżłości przemysłowych robotów czworonożnych.
+Meldog – najlepszy przyjaciel każdego humanoida – poszerzenie "repertuaru" naszego zespołu o roboty czteronożne, które od kilku lat cieszą się zainteresowaniem na zachodzie. Jest to nasz największy i najzuchwalszy do tej pory projekt. Konstrukcja robota w tej skali wymagała użycia autorskich jednostek napędowych opartych na silnikach BLDC i przekładniach planetarnych. W obecnej fazie dogłębnie testujemy pojedynczą kończynę robota, ale myślami jesteśmy już przy realizacji całego czteronoga.
 
 ## Gdzie można nas znaleźć
 
