@@ -30,7 +30,8 @@ Melania – młodsza siostra Melsona – jest to robotka \[można zmienić robot
 
 Melchior – nasz nowy robot – od niedawna znajdujący się w przestrzeni koła humanoid o budowie podobnej do Melanii. W Swoich stopach posiada czujniki nacisku, dzięki którym nasz zespół bada różnego rodzaju chód uzyskany przez odwrotną kinematykę czy nawet uczenie maszynowe.
 
-<img src="/images/melson/Meldog_Leg_Render.png"  width="50%" alt="Render Nogi Meldoga"> <img src="/images/melson/Meldog_Leg_test.png"  width="50%" alt="Testy ruchu nogi">
+<img src="/images/melson/Meldog_Leg_Render.png"  
+width="60%" alt="Render Nogi Meldoga">  <img src="/images/melson/Meldog_Leg_Test.gif" width="36%" alt="Testy ruchu nogi">
 
 Meldog – najlepszy przyjaciel każdego humanoida – poszerzenie "repertuaru" naszego zespołu o roboty czteronożne, które od kilku lat cieszą się zainteresowaniem na zachodzie. Jest to nasz największy i najzuchwalszy do tej pory projekt. Konstrukcja robota w tej skali wymagała użycia autorskich jednostek napędowych opartych na silnikach BLDC i przekładniach planetarnych. W obecnej fazie dogłębnie testujemy pojedynczą kończynę robota, ale myślami jesteśmy już przy realizacji całego czteronoga.
 
