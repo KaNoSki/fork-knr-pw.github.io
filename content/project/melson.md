@@ -41,5 +41,3 @@ Można nas znaleźć na każdym kroku! Mamy za sobą wystąpienia na międzynaro
 <img src="/images/melson/z_morawieckim.png"  width="75%" alt="Jedno z wielu spotkań Melsona na szczycie">
 <br/>
 <img src="/images/melson/melson_zwyciezca.png"  width="75%" alt="">
-
-![Melchior udaje Pudziana, ale wychodzą mu kable z pleców](/images/melchior-pudlarz.png "Melchior podnosi pudło")
