@@ -18,11 +18,11 @@ Jesteśmy sekcją zajmującą się robotami kroczącymi, czyli takimi konstrukcj
 
 ## A kogo mamy na stanie? Poznajmy ich:
 
-<img src="/images/melson/melson.png"  width="75%" alt="Melson machający do tłumów">
+<img src="/images/melson/Humanoidy_KNR.png"  width="75%" alt="Humanoidy siedzące na stole">
 
 Melson - najmniejszy z naszych robotów – powstał jako pierwsza konstrukcja naszego koła naukowego mając za zadanie przetarcie szlaków w dziedzinie humanoidalnych robotów kroczących. Konstrukcja z elementów wytworzonych na drukarkach 3D oraz 19 wysokiej klasy serwonapędów pozwala mu naśladować ruchy człowieka. Jako kołowy pionier w konkursach robotycznych stoczył niejeden pojedynek na ringu SUMO, jak i popisał się na zawodach "freestyle". Jako dojrzały projekt stanowi świetny wstęp dla aspirujących robotyków.
 
-<img src="/images/melson/melania.png"  width="50%" alt="Melania">
+<img src="/images/melson/Melman_Piknik_Naukowy.jpg"  width="50%" alt="Melania">
 
 Melania – młodsza siostra Melsona – jest to robotka \[można zmienić robot/robotka] której konstrukcja oparta jest na giętych blaszkach aluminiowych. Stanowi swego rodzaju ewolucję naszego pierwszego robota dzięki wytrzymalszej konstrukcji, mocniejszym napędom i mocniejszej jednostce obliczeniowej. Uzbrojona w kamerę do rozpoznawania twarzy potrafi rozpoznawać emocje człowieka na podstawie jego mimiki, jak i poprowadzić z nim konwersacje.
 
@@ -30,7 +30,7 @@ Melania – młodsza siostra Melsona – jest to robotka \[można zmienić robot
 
 Melchior – nasz nowy robot – od niedawna znajdujący się w przestrzeni koła humanoid o budowie podobnej do Melanii. W Swoich stopach posiada czujniki nacisku, dzięki którym nasz zespół bada różnego rodzaju chód uzyskany przez odwrotną kinematykę czy nawet uczenie maszynowe.
 
-<img src="/images/melson/meldog_noga.png"  width="30%" alt="Pierwsza z nóg meldoga">
+<img src="/images/melson/Meldog_Leg_Render.png"  width="50%" alt="Render Nogi Meldoga"> <img src="/images/melson/Meldog_Leg_test.png"  width="50%" alt="Testy ruchu nogi">
 
 Meldog – najlepszy przyjaciel każdego humanoida – poszerzenie "repertuaru" naszego zespołu o roboty czteronożne, które od kilku lat cieszą się zainteresowaniem na zachodzie. Jest to nasz największy i najzuchwalszy do tej pory projekt. Konstrukcja robota w tej skali wymagała użycia autorskich jednostek napędowych opartych na silnikach BLDC i przekładniach planetarnych. W obecnej fazie dogłębnie testujemy pojedynczą kończynę robota, ale myślami jesteśmy już przy realizacji całego czteronoga.
 
@@ -40,4 +40,4 @@ Można nas znaleźć na każdym kroku! Mamy za sobą wystąpienia na międzynaro
 
 <img src="/images/melson/z_morawieckim.png"  width="75%" alt="Jedno z wielu spotkań Melsona na szczycie">
 <br/>
-<img src="/images/melson/melson_zwyciezca.png"  width="75%" alt="">
+<img src="/images/melson/2.jpg"  width="75%" alt="">
