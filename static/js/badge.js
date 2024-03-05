@@ -21,7 +21,7 @@ function updateButtonState(element_id, current_state){
 }
 
 function getState(){
-    fetch('hangwatch.knr.edu.pl/hooks')
+    fetch('https://hangwatch.knr.edu.pl/hooks')
     .then(answer=>answer.json())
     .then(data => {
         for (const key in data) {
