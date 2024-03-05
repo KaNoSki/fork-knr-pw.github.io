@@ -1,7 +1,7 @@
 ---
-main_site_item_descr: Melson to robot humanoidalny o 21 stopniach swobody. Swoją
-  sylwetką i ruchami naśladuje człowieka, do czego wykorzystuje aż 21 wysokiej
-  precyzji napędów ...
+main_site_item_descr: Projekt "Melson" zajmuje sie szeroko pojętymi robotami
+  kroczącymi. W naszym zespole opracowujemy zarówno humanoidy jak i roboty
+  czteronożne...
 start_date: 2014
 main_site: true
 main_project_image: /images/melson/3.jpg
