@@ -20,20 +20,22 @@ Jesteśmy sekcją zajmującą się robotami kroczącymi, czyli takimi konstrukcj
 
 <img src="/images/melson/Humanoidy_KNR.jpg"  width="75%" alt="Humanoidy siedzące na stole">
 
-Melson - najmniejszy z naszych robotów – powstał jako pierwsza konstrukcja naszego koła naukowego mając za zadanie przetarcie szlaków w dziedzinie humanoidalnych robotów kroczących. Konstrukcja z elementów wytworzonych na drukarkach 3D oraz 19 wysokiej klasy serwonapędów pozwala mu naśladować ruchy człowieka. Jako kołowy pionier w konkursach robotycznych stoczył niejeden pojedynek na ringu SUMO, jak i popisał się na zawodach "freestyle". Jako dojrzały projekt stanowi świetny wstęp dla aspirujących robotyków.
+**Melson** - najmniejszy z naszych robotów – powstał jako pierwsza konstrukcja naszego koła naukowego mając za zadanie przetarcie szlaków w dziedzinie humanoidalnych robotów kroczących. Konstrukcja z elementów wytworzonych na drukarkach 3D oraz 19 wysokiej klasy serwonapędów pozwala mu naśladować ruchy człowieka. Jako kołowy pionier w konkursach robotycznych stoczył niejeden pojedynek na ringu SUMO, jak i popisał się na zawodach "freestyle". Jako dojrzały projekt stanowi świetny wstęp dla aspirujących robotyków.
 
 <img src="/images/melson/Melman_Piknik_Naukowy.jpg"  width="50%" alt="Melania">
 
-Melania – młodsza siostra Melsona – jest to robotka \[można zmienić robot/robotka] której konstrukcja oparta jest na giętych blaszkach aluminiowych. Stanowi swego rodzaju ewolucję naszego pierwszego robota dzięki wytrzymalszej konstrukcji, mocniejszym napędom i mocniejszej jednostce obliczeniowej. Uzbrojona w kamerę do rozpoznawania twarzy potrafi rozpoznawać emocje człowieka na podstawie jego mimiki, jak i poprowadzić z nim konwersacje.
+**Melania** – młodsza siostra Melsona – jest to robotka \[można zmienić robot/robotka] której konstrukcja oparta jest na giętych blaszkach aluminiowych. Stanowi swego rodzaju ewolucję naszego pierwszego robota dzięki wytrzymalszej konstrukcji, mocniejszym napędom i mocniejszej jednostce obliczeniowej. Uzbrojona w kamerę do rozpoznawania twarzy potrafi rozpoznawać emocje człowieka na podstawie jego mimiki, jak i poprowadzić z nim konwersacje.
 
 <img src="/images/melson/melchior-pudlarz.png"  width="50%" alt="Melchior-pudlarz">
 
-Melchior – nasz nowy robot – od niedawna znajdujący się w przestrzeni koła humanoid o budowie podobnej do Melanii. W Swoich stopach posiada czujniki nacisku, dzięki którym nasz zespół bada różnego rodzaju chód uzyskany przez odwrotną kinematykę czy nawet uczenie maszynowe.
+**Melchior** – nasz nowy robot – od niedawna znajdujący się w przestrzeni koła humanoid o budowie podobnej do Melanii. W Swoich stopach posiada czujniki nacisku, dzięki którym nasz zespół bada różnego rodzaju chód uzyskany przez odwrotną kinematykę czy nawet uczenie maszynowe.
 
 <img src="/images/melson/Meldog_Leg_Render.png"  
-width="60%" alt="Render Nogi Meldoga">  <img src="/images/melson/Meldog_Leg_Test.gif" width="36%" alt="Testy ruchu nogi">
+width="60%" alt="Render Nogi Meldoga"> 
 
-Meldog – najlepszy przyjaciel każdego humanoida – poszerzenie "repertuaru" naszego zespołu o roboty czteronożne, które od kilku lat cieszą się zainteresowaniem na zachodzie. Jest to nasz największy i najzuchwalszy do tej pory projekt. Konstrukcja robota w tej skali wymagała użycia autorskich jednostek napędowych opartych na silnikach BLDC i przekładniach planetarnych. W obecnej fazie dogłębnie testujemy pojedynczą kończynę robota, ale myślami jesteśmy już przy realizacji całego czteronoga.
+ <img src="/images/melson/Meldog_Leg_Test.gif" width="36%" alt="Testy ruchu nogi">
+
+**Meldog** – najlepszy przyjaciel każdego humanoida – poszerzenie "repertuaru" naszego zespołu o roboty czteronożne, które od kilku lat cieszą się zainteresowaniem na zachodzie. Jest to nasz największy i najzuchwalszy do tej pory projekt. Konstrukcja robota w tej skali wymagała użycia autorskich jednostek napędowych opartych na silnikach BLDC i przekładniach planetarnych. W obecnej fazie dogłębnie testujemy pojedynczą kończynę robota, ale myślami jesteśmy już przy realizacji całego czteronoga.
 
 ## Gdzie można nas znaleźć
 
