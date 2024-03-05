@@ -26,7 +26,7 @@ Melson - najstarszy z rodzeństwa – Melson powstał jako pierwsza konstrukcja 
 
 Melania – młodsza siostra melsona – Melania jest to robotka \[można zmienić robot/robotka] której konstrukcja oparta jest na giętych blaszkach aluminiowych. Stanowi następne wcielenie Melsona, posiada lepsze parametry mechaniczne. Na zawodach pokazuje się w kategorii freestyle. Wraz z Melsonem tworzy drużynę do gry w piłkę na zawodach Robocup. Uzbrojona w kamerę do rozpoznawania twarzy i potrafiąca rozpoznawać emocję człowieka na podstawie mimiki, świetnie prezentuje się na pokazach naukowych.
 
-<img src="/images/melson/melchior.png"  width="50%" alt="Melchior-pudlarz">
+<img src="/images/melson/melchior-pudlarz.png"  width="50%" alt="Melchior-pudlarz">
 
 Melchior – najnowszy w rodzinie – od niedawna znajdujący się w przestrzeni koła robot. Konstrukcja na podstawie aluminiowych elementów. Posiadający czujniki nacisku na podstawie których możemy oszacować rozkładane siły na stopie. Wraz z Melanią i Melsonem przygotowywany do zawodów.
 
