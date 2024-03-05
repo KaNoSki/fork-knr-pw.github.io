@@ -18,7 +18,7 @@ Jesteśmy sekcją zajmującą się robotami kroczącymi, czyli takimi konstrukcj
 
 ## A kogo mamy na stanie? Poznajmy ich:
 
-<img src="/images/melson/Humanoidy_KNR.png"  width="75%" alt="Humanoidy siedzące na stole">
+<img src="/images/melson/Humanoidy_KNR.jpg"  width="75%" alt="Humanoidy siedzące na stole">
 
 Melson - najmniejszy z naszych robotów – powstał jako pierwsza konstrukcja naszego koła naukowego mając za zadanie przetarcie szlaków w dziedzinie humanoidalnych robotów kroczących. Konstrukcja z elementów wytworzonych na drukarkach 3D oraz 19 wysokiej klasy serwonapędów pozwala mu naśladować ruchy człowieka. Jako kołowy pionier w konkursach robotycznych stoczył niejeden pojedynek na ringu SUMO, jak i popisał się na zawodach "freestyle". Jako dojrzały projekt stanowi świetny wstęp dla aspirujących robotyków.
 
