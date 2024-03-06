@@ -1,12 +1,13 @@
 ---
 main_site_item_descr: Projekt "Melson" zajmuje sie szeroko pojętymi robotami
   kroczącymi. W naszym zespole opracowujemy zarówno humanoidy jak i roboty
-  czteronożne...
+  czteronożne.
 start_date: 2014
 main_site: true
-main_project_image: /images/melson/3.jpg
+main_project_image: /images/melson/Humanoidy_KNR.jpg
 end_date: null
 main_site_item_images:
+  - Humanoidy_KNR.jpg
   - 1.jpg
   - 2.jpg
   - 3.jpg
