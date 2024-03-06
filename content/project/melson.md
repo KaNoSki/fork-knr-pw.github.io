@@ -31,10 +31,17 @@ Jesteśmy sekcją zajmującą się robotami kroczącymi, czyli takimi konstrukcj
 
 **Melchior** – nasz nowy robot – od niedawna znajdujący się w przestrzeni koła humanoid o budowie podobnej do Melanii. W Swoich stopach posiada czujniki nacisku, dzięki którym nasz zespół bada różnego rodzaju chód uzyskany przez odwrotną kinematykę czy nawet uczenie maszynowe.
 
-<img src="/images/melson/Meldog_Leg_Render.png"  
-width="60%" alt="Render Nogi Meldoga"> 
-
- <img src="/images/melson/Meldog_Leg_Test.gif" width="36%" alt="Testy ruchu nogi">
+<table>
+  <tr>
+    <td>
+      <img src="/images/melson/Meldog_Leg_Render.png"  
+           height="550px" alt="Render Nogi Meldoga">
+    </td>
+    <td>
+      <img src="/images/melson/Meldog_Leg_Test.gif" height="550px" alt="Testy ruchu nogi">
+    </td>
+  </tr>
+</table>
 
 **Meldog** – najlepszy przyjaciel każdego humanoida – poszerzenie "repertuaru" naszego zespołu o roboty czteronożne, które od kilku lat cieszą się zainteresowaniem na zachodzie. Jest to nasz największy i najzuchwalszy do tej pory projekt. Konstrukcja robota w tej skali wymagała użycia autorskich jednostek napędowych opartych na silnikach BLDC i przekładniach planetarnych. W obecnej fazie dogłębnie testujemy pojedynczą kończynę robota, ale myślami jesteśmy już przy realizacji całego czteronoga.
 
