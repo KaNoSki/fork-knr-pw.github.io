@@ -47,7 +47,7 @@ zajął odpowiednio:
 - 5. miejsce w konkurencji z parkowaniem,
 - 6. miejsce za prezentację zastosowanych rozwiązań
 
-spośród 15 zespołów w kategorii basic.
+Po podliczeniu wszystkich punktów [udało się zająć ostatecznie 7. miejsce](https://www.tu-braunschweig.de/fileadmin/Redaktionsgruppen/Institute_Fakultaet_5/Carolo-Cup/Ergebnisse_2018.pdf) spośród 15 zespołów w kategorii basic.
 
 
 Wykorzystując doświadczenia przy budowie pierwszej iteracji. Rozpoczęto modernizację i ulepszanie pierwszego samochdu oraz budowę drugiego pojazdu, tym razem tworzonego pod zawody [IARRC 2018](https://robotracing.wordpress.com/) w Kanadzie.
@@ -55,6 +55,12 @@ Wykorzystując doświadczenia przy budowie pierwszej iteracji. Rozpoczęto moder
 Na jego potrzeby zbudowano kolejną iterację pojazdu Selfie, której udało się zająć [pierwsze miejsce](https://www.robotcompetition.ca/iarrc2018/).
 
 <img src="/images/selfie/Selfie_IAAC_2018.png"  width="75%" alt="Zdjęcie pojazdu, który wziął udział w zawodach IARRC">
+
+Po występie w Kanadzie zespół podzielił się, aby móc równolegle przygotowywać się do zawodów CaroloCup oraz F1 Tenth.
+
+Drugie wystąpienie na CaroloCup 2019 w kategorii podstawowej zaowocowało zajęciem 6 miejsca.
+
+{{< youtube ogprpJ1HzBE >}}
 
 
 <!-- CaroloCup 2019 -->
@@ -72,12 +78,17 @@ Poza doświadczeniami zdobytymi przez zespół projekt Selfie pozostawił po sob
 
 Konferencje
 
-- https://ieeexplore.ieee.org/document/8755418
+- [Localization-based software architecture for 1:10 scale autonomous car](https://ieeexplore.ieee.org/document/8755418), Adam Gotlib; Kornelia Łukojć; Mateusz Szczygielski
 
 Publikacje:
 
 Prace dyplomowe:
 
-- https://repo.pw.edu.pl/info/bachelor/WUTd328ad533ed0490bb7275fdb6cdc81db/
+- [System wizyjny modelu samochodu autonomicznego w symulowanym środowisku drogowym](https://repo.pw.edu.pl/info/bachelor/WUTd328ad533ed0490bb7275fdb6cdc81db/)
+- [Detekcja obiektów za pomocą kamery głębi 3D w pojeździe autonomicznym](https://repo.pw.edu.pl/info/bachelor/WUT191e3d3f803349e98dbf706fd999e668)
+- [Implementacja w systemie ROS algorytmu wyznaczania ścieżki pojazdu autonomicznego](https://repo.pw.edu.pl/info/bachelor/WUT1a3c297b21ed49279992840bb7fbc157)
+- [Projekt podwozia pojazdu autonomicznego z czterema niezależnie skrętnymi kołami](https://repo.pw.edu.pl/info/bachelor/WUTf365fb026b4d411a85091667b0251ddd)
+- [Detekcja obiektów za pomocą kamery głębi 3D w pojeździe autonomicznym](https://repo.pw.edu.pl/info/bachelor/WUT191e3d3f803349e98dbf706fd999e668)
+
 
 <!-- TODO -->
