@@ -56,10 +56,6 @@ Na jego potrzeby zbudowano kolejną iterację pojazdu Selfie, której udało si�
 
 <img src="/images/selfie/Selfie_IAAC_2018.png"  width="75%" alt="Zdjęcie pojazdu, który wziął udział w zawodach IARRC">
 
-Po występie w Kanadzie zespół podzielił się, aby móc równolegle przygotowywać się do zawodów CaroloCup oraz F1 Tenth.
-
-{{< youtube ogprpJ1HzBE >}}
-
 
 <!-- CaroloCup 2019 -->
 
