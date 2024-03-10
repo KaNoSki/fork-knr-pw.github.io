@@ -58,8 +58,6 @@ Na jego potrzeby zbudowano kolejną iterację pojazdu Selfie, której udało si�
 
 Po występie w Kanadzie zespół podzielił się, aby móc równolegle przygotowywać się do zawodów CaroloCup oraz F1 Tenth.
 
-Drugie wystąpienie na CaroloCup 2019 w kategorii podstawowej zaowocowało zajęciem 6 miejsca.
-
 {{< youtube ogprpJ1HzBE >}}
 
 
@@ -67,7 +65,7 @@ Drugie wystąpienie na CaroloCup 2019 w kategorii podstawowej zaowocowało zaję
 
 Po występie w Kanadzie zespół podzielił się, aby móc równolegle przygotowywać się do zawodów CaroloCup oraz F1 Tenth.
 
-Pierwsze wystąpienie na CaroloCup w kategorii podstawowej zaowocowało zajęciem 6-tego miejsca.
+Drugie wystąpienie na CaroloCup 2019 w kategorii podstawowej zaowocowało zajęciem 6 miejsca.
 
 {{< youtube ogprpJ1HzBE >}}
 <!-- TODO reszta historii -->
@@ -88,7 +86,5 @@ Prace dyplomowe:
 - [Detekcja obiektów za pomocą kamery głębi 3D w pojeździe autonomicznym](https://repo.pw.edu.pl/info/bachelor/WUT191e3d3f803349e98dbf706fd999e668)
 - [Implementacja w systemie ROS algorytmu wyznaczania ścieżki pojazdu autonomicznego](https://repo.pw.edu.pl/info/bachelor/WUT1a3c297b21ed49279992840bb7fbc157)
 - [Projekt podwozia pojazdu autonomicznego z czterema niezależnie skrętnymi kołami](https://repo.pw.edu.pl/info/bachelor/WUTf365fb026b4d411a85091667b0251ddd)
-- [Detekcja obiektów za pomocą kamery głębi 3D w pojeździe autonomicznym](https://repo.pw.edu.pl/info/bachelor/WUT191e3d3f803349e98dbf706fd999e668)
-
 
 <!-- TODO -->
