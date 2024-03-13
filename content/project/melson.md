@@ -52,3 +52,21 @@ Można nas znaleźć na każdym kroku! Mamy za sobą wystąpienia na międzynaro
 <img src="/images/melson/z_morawieckim.png"  width="75%" alt="Jedno z wielu spotkań Melsona na szczycie">
 <br/>
 <img src="/images/melson/2.jpg"  width="75%" alt="">
+
+## Dorobek naukowy
+
+Poza doświadczeniami zdobytymi przez zespół projekty realizowane przez zespół pracujący nad robotami kroczącymi przyniosły również efekty naukowe. W ramach projektów realizowanych przez nasz zespół powstało min. kilka prac dypomowych i publikacji.
+
+Prace dyplomowe
+
+- [Generowanie trajektorii dla redundantnego robota humanoidalnego](https://repo.pw.edu.pl/info/bachelor/WUT6cd5920b3650477bb2086066cc585f09), 2019
+- [Zastosowanie platformy Robot Operating System w projekcie robota humanoidalnego](https://repo.pw.edu.pl/info/bachelor/WUTa10d18fb216e47899a036e2f73a4617e), 2020
+- [System detektcji piłki nożnej dla robota humanoidalnego](https://repo.pw.edu.pl/info/bachelor/WUT6c749ee3de1442fdb441798252fe3b38), 2020
+- [Lokalizacja robotów mobilnych przy wykorzystaniu platformy Jetson TX2 ](https://repo.pw.edu.pl/info/master/WUTe45fa237c81449b2be4e268bd80ad4a9), 2020
+- [Opracowanie prototypu kończyny robota czteronożnego „Meldog”](https://repo.pw.edu.pl/info/bachelor/WUTc5807bd7838b4152934b970219e73402), 2023
+
+Publikacje
+
+- [Solving Inverse Kinematics of Humanoid Robot Using A Redundant Tree-shaped Manipulator Model](https://dl.acm.org/doi/abs/10.1145/3448823.3448885), 2020
+- [Particle filter as the localization of the robot on the football pitch](https://ieeexplore.ieee.org/abstract/document/9680861), 2021
+- [Inverse kinematics solution for humanoid robot minimizing gravity-related joint torques](https://repo.pw.edu.pl/info/article/WUTba2aabec8cad471cae33431bd20a492f/), 2023
