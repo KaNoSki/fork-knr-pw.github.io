@@ -13,7 +13,7 @@ main_site_item_images:
   - 3.jpg
   - 4.jpg
 title: Melson
-short_description: true
+short_description: "Sekcja zajmująca się różnymi robotami kroczącymi"
 ---
 Jesteśmy sekcją zajmującą się robotami kroczącymi, czyli takimi konstrukcjami które w wyglądzie i poruszaniu się przypominają człowieka. Nasz zespół składa się z ponad 20 studentów i studentek PW prężnie rozwijających równolegle 4 projekty konkurujące na międzynarodowych zawodach.
 
