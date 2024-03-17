@@ -1,7 +1,6 @@
 ---
 title: Selfie
-main_project_image: "/images/selfie/4.jpg"
-archive_image: "/images/selfie/4.jpg"
+main_project_image: "/images/selfie/selfie_2020_puchar.jpg"
 main_site: false
 start_date: 2017.01
 end_date: 2022.09
@@ -64,6 +63,10 @@ Po występie w Kanadzie zespół podzielił się, aby móc równolegle przygotow
 Drugie wystąpienie na CaroloCup 2019 w kategorii podstawowej zaowocowało zajęciem 6 miejsca.
 
 {{< youtube ogprpJ1HzBE >}}
+
+W roku 2020 ukończono prace nad kolejną iteracją pojazdu określoną mianem Selfie V3. Samochód ten został wystawiony na zawodach CaroloCup 2020, gdzie zajął 2. miejsce w kategorii podstawowej.
+
+<img src="/images/selfie/selfie_2020_puchar.jpg"  width="100%" alt="Selvie V3 na zawodach w Brunszwiku">
 <!-- TODO reszta historii -->
 
 ## Wkład naukowy
@@ -83,4 +86,7 @@ Prace dyplomowe:
 - [Implementacja w systemie ROS algorytmu wyznaczania ścieżki pojazdu autonomicznego](https://repo.pw.edu.pl/info/bachelor/WUT1a3c297b21ed49279992840bb7fbc157)
 - [Projekt podwozia pojazdu autonomicznego z czterema niezależnie skrętnymi kołami](https://repo.pw.edu.pl/info/bachelor/WUTf365fb026b4d411a85091667b0251ddd)
 
-<!-- TODO -->
+Repozytoria projektu:
+
+- [Repozytoria projektu Selfie w ramach organizacji KNR](https://github.com/KNR-PW?q=selfie)
+- [Archiwalna organizacja Selfie-KNR na GitHubie](https://github.com/KNR-Selfie)
