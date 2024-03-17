@@ -32,10 +32,13 @@ Do sukcesów zespołu można zaliczyć:
 ## Historia projektu
 
 W roku 2017 powstała pierwsza iteracja pojazdu, stanowiła ona swego rodzaju podstawę do dalszych działań zespołu.
-Pojazd ten został został przez nas wystawiony na zawodach autonomicznych modeli samochodów Carolo-Cup, odbywających się z inicjatywy
-Uniwersytetu Technicznego w Braunschweig w Niemczech,
+Pojazd ten został został przez nas wystawiony na zawodach autonomicznych modeli samochodów [Carolo-Cup](https://www.tu-braunschweig.de/carolo-cup/), odbywających się z inicjatywy Uniwersytetu Technicznego w Brunszwiku,
 
 <img src="/images/selfie/SelfieV1.jpg"  width="65%" alt="Pierwsza iteracja pojazdu określana mianem Selfie V1">
+<details>
+  <summary>Prezentacja wczesnego prototypu pojazdu</summary>
+  {{< youtube 8fvEWaywuzQ >}}
+</details>
 
 Na specjalnie symulowanym środowisku drogowym samochód samodzielnie wykonywał określone zadania takie jak: ustępowanie pierwszeństwa na skrzyżowaniu, omijanie przeszkód, parkowanie oraz wyprzedzanie.
 
@@ -55,6 +58,10 @@ Na jego potrzeby zbudowano kolejną iterację pojazdu Selfie, której udało si�
 
 <img src="/images/selfie/Selfie_IAAC_2018.png"  width="75%" alt="Zdjęcie pojazdu, który wziął udział w zawodach IARRC">
 
+<details>
+  <summary>Relacja wideo IARRC 2018</summary>
+  {{< youtube QPzK7BxkeqI >}}
+</details>
 
 <!-- CaroloCup 2019 -->
 
@@ -64,9 +71,23 @@ Drugie wystąpienie na CaroloCup 2019 w kategorii podstawowej zaowocowało zaję
 
 {{< youtube ogprpJ1HzBE >}}
 
-W roku 2020 ukończono prace nad kolejną iteracją pojazdu określoną mianem Selfie V3. Samochód ten został wystawiony na zawodach CaroloCup 2020, gdzie zajął 2. miejsce w kategorii podstawowej.
+
+W roku 2020 ukończono prace nad kolejną iteracją pojazdu określoną mianem Selfie V3. Charakteryzował się on poprawionymi własnościami jezdnymi, posiadał 2 skrętne osie oraz mocniejszy komputer. Samochód ten został wystawiony na zawodach CaroloCup 2020, gdzie zajął 2. miejsce w kategorii podstawowej.
 
 <img src="/images/selfie/selfie_2020_puchar.jpg"  width="100%" alt="Selvie V3 na zawodach w Brunszwiku">
+
+<!-- CaroloCup 2021 -->
+W kolejnym roku udało się poprawić ten wynik, zajmując 1. miejsce w kategorii podstawowej. Oznaczało to awans do kategorii zaawansowanej (Advanced).
+
+
+<!-- WUT Driverless Indy oraz Autonomizacja emaksa -->
+
+<!-- CaroloCup 2022 -->
+
+W związku z wybuchem pandemii COVID-19, zawody CaroloCup 2022 odbyły się w formie zdalnej. Zmianie uległa nie tylko formuła, lecz także zakres zadań realizowanych w ramach konkurencji. Pojawiły się nowe zadania związane z wykrywaniem znaków drogowych oraz wykrywaniem i omijaniem pieszych. Na potrzeby tej edycji poza standardowymi usprawnieniami mechanicznymi pojazdu wzbogaciliśmy system wizyjny o nową kamerę głebii.  
+Mimo wymienionych wyzwań nasz zespół zdołał zająć 3. miejsce w zawodach Carolo-Master-Cup@Home 2022. Niestety była to ostatnia edycja tego konkursu ([oświadczenie organizatorów](https://www.tu-braunschweig.de/fileadmin/Redaktionsgruppen/Institute_Fakultaet_5/Carolo-Cup/Carolo-Cup2023_Cancellation-and-outlook.pdf)).
+
+
 <!-- TODO reszta historii -->
 
 ## Wkład naukowy
