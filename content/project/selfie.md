@@ -109,6 +109,7 @@ Prace dyplomowe:
 - [Detekcja obiektów za pomocą kamery głębi 3D w pojeździe autonomicznym](https://repo.pw.edu.pl/info/bachelor/WUT191e3d3f803349e98dbf706fd999e668)
 - [Implementacja w systemie ROS algorytmu wyznaczania ścieżki pojazdu autonomicznego](https://repo.pw.edu.pl/info/bachelor/WUT1a3c297b21ed49279992840bb7fbc157)
 - [Projekt podwozia pojazdu autonomicznego z czterema niezależnie skrętnymi kołami](https://repo.pw.edu.pl/info/bachelor/WUTf365fb026b4d411a85091667b0251ddd)
+- [Implementacja sterowania prędkością silnika BLDC](https://repo.pw.edu.pl/info/bachelor/WUTfde440b4de7b458788fe4b0705903e70)
 
 Repozytoria projektu:
 
