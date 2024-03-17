@@ -34,12 +34,13 @@ Do sukcesów zespołu można zaliczyć:
 W roku 2017 powstała pierwsza iteracja pojazdu, stanowiła ona swego rodzaju podstawę do dalszych działań zespołu.
 Pojazd ten został został przez nas wystawiony na zawodach autonomicznych modeli samochodów [Carolo-Cup](https://www.tu-braunschweig.de/carolo-cup/), odbywających się z inicjatywy Uniwersytetu Technicznego w Brunszwiku,
 
+<div>
 <img src="/images/selfie/SelfieV1.jpg"  width="65%" alt="Pierwsza iteracja pojazdu określana mianem Selfie V1">
 <details>
   <summary>Prezentacja wczesnego prototypu pojazdu</summary>
   {{< youtube 8fvEWaywuzQ >}}
 </details>
-
+</div>
 Na specjalnie symulowanym środowisku drogowym samochód samodzielnie wykonywał określone zadania takie jak: ustępowanie pierwszeństwa na skrzyżowaniu, omijanie przeszkód, parkowanie oraz wyprzedzanie.
 
 Pomimo tego że zespół zaczynał pracę nad projektem od podstaw, na zawodach Carolo Cup 2018
@@ -58,10 +59,12 @@ Na jego potrzeby zbudowano kolejną iterację pojazdu Selfie, której udało si�
 
 <img src="/images/selfie/Selfie_IAAC_2018.png"  width="75%" alt="Zdjęcie pojazdu, który wziął udział w zawodach IARRC">
 
+<div>
 <details>
   <summary>Relacja wideo IARRC 2018</summary>
   {{< youtube QPzK7BxkeqI >}}
 </details>
+</div>
 
 <!-- CaroloCup 2019 -->
 
