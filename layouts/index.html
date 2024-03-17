@@ -68,7 +68,7 @@
       <div class="projects__wrapper">
         <div data-aos="fade-up" class="projects__title">Projekty</div>
           {{ $counter := 0 }} 
-          {{ range .Site.RegularPages }}
+          {{ range sort .Site.RegularPages "Params.start_date" }}
             {{ if (eq .Params.main_site true)}}
               {{ $url := .Params.url }}
               {{ $img_folder := .File.BaseFileName }}
