@@ -36,9 +36,11 @@
     width:100px;
     height:100px
 }
+/* navbar */
 .navbar{
     padding:0;
     font-weight: bold;
+    float: right;
 }
 .navbar a:not([href]){
     color:#f5f5f5;
@@ -56,9 +58,6 @@
     float: left;
     list-style: none;
 }
-.navbar{
-    float: right;
-}
 .navbar ul li:focus-within > ul,
 .navbar ul li:hover > ul{
     display: initial;
@@ -72,6 +71,7 @@
     color:#f5f5f5;
     display: block;
 }
+
 .navbar ul li a:not([href]){
     color:#f5f5f5;
 }
@@ -80,8 +80,19 @@
     transition-duration: 0.5s;
     background-color: rgb(0, 0, 0);
 }
+.navbar ul li a:has(+ ul li a:focus-within),
+.navbar ul li a:has(+ ul li a:hover){
+    color: #007bff;
+    background-color: rgb(0, 0, 0);
+}
 .navbar ul li a:hover > .fa-chevron-circle-right,
 .navbar ul li a:focus-within > .fa-chevron-circle-right{
+    transform: rotate(90deg);
+    color: #007bff;
+    transition-duration: 0.5s;
+}
+.navbar ul li a:has(+ ul li a:focus-within) > .fa-chevron-circle-right,
+.navbar ul li a:has(+ ul li a:hover) > .fa-chevron-circle-right{
     transform: rotate(90deg);
     color: #007bff;
     transition-duration: 0.5s;
@@ -89,13 +100,6 @@
 .navbar ul li a > .fa-chevron-circle-right{
     transition-duration: 0.5s;
     color:#f5f5f5;
-}
-.navbar ul li ul{
-    position:absolute;
-    display: none;
-    background-color: rgb(0, 0, 0);
-    left:0;
-    width:100%;
 }
 .navbar ul li ul{
     position:absolute;
@@ -117,6 +121,7 @@
 .navbar ul li ul li a:hover{
     background-color: rgba(39, 39, 39, 1);
 }
+/* mobilny navbar */
 .container{
     width:100%;
 }
@@ -130,21 +135,18 @@
     font-size: 40px;
     color: #fff;
 }
-
 .nav-toggle{
     right:10%;
     width: 1.5rem;
     transition: 300ms all ease;
 }
-
 .nav-toggle:hover {
     color:#008ae6;
 }
-
 .open {
-    height: 100vh;
+    height: 90vh;
+    overflow-y: scroll;
 }
-
 .hidden {
     display: none;
 }
