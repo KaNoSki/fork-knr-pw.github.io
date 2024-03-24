@@ -2,7 +2,6 @@
 title: Łódz Podwodna OKOŃ
 short_title: OKOŃ
 main_project_image: "/images/okon/okonV2.jpg"
-# article_image: "/images/okon/2.jpg"
 main_site: false
 start_date: 2018.12
 end_date: 2023
